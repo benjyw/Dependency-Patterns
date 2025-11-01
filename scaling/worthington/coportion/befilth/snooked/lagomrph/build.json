@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/coportion/befilth/navajos/slackness",
+    "worthington/coportion/miamiville/sanitariness/pedrick",
+    "worthington/coportion/uranoscopy/yorgen/gnatty"
+  ],
+  "output_file": "worthington_coportion_befilth_snooked_lagomrph_befilth_output.txt"
+}

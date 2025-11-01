@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/catalogers/brainteaser/concresce",
+    "worthington/catalogers/criminating/howenstein",
+    "worthington/catalogers/desaturation/pectinatella",
+    "worthington/catalogers/flavian/rhymery",
+    "worthington/catalogers/flub/syrus",
+    "worthington/catalogers/fumulus/spadebone",
+    "worthington/catalogers/gnathostomi/hamathite",
+    "worthington/catalogers/hereditably/genips",
+    "worthington/catalogers/hierro/panomphic",
+    "worthington/catalogers/kufiyeh/sayce",
+    "worthington/catalogers/lealness/unswanlike",
+    "worthington/catalogers/redondilla/fiftieths",
+    "worthington/catalogers/spruiker/eloigned",
+    "worthington/catalogers/strychnos/wolver",
+    "worthington/catalogers/subcuneus/airily",
+    "worthington/catalogers/wots/gemshorn",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/ihp/endospermous/elf",
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_catalogers_upaisle_logheaded_output.txt"
+}

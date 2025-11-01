@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/preconsuming/bemire/swarming",
+    "bakongo/preconsuming/lealness/coincidental",
+    "bakongo/preconsuming/reitman/alleghanian",
+    "bakongo/preconsuming/reliers/snecket",
+    "bakongo/preconsuming/slopstone/scilla",
+    "bakongo/preconsuming/unqueened/mesogastral",
+    "bakongo/snatchers/bemire/coquette",
+    "bakongo/snatchers/lealness/licensure",
+    "bakongo/snatchers/reliers/antisexist",
+    "bakongo/snatchers/unqueened/redeemedness",
+    "bakongo/upglide/endospermous/ochreish"
+  ],
+  "output_file": "emancipator_bicolorous_saburrate_output.txt"
+}

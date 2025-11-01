@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/beltine/criminating/fainted",
+    "biomorphic/beltine/vincas/tileyard",
+    "biomorphic/cottontails/reitman/cottontails",
+    "biomorphic/disreputable/blustery/nonlyrically",
+    "biomorphic/disreputable/sparrowbill/diversory",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/olivet/reitman/olivet",
+    "biomorphic/overdares/reitman/overdares",
+    "biomorphic/reinstitute/disembark/navigator",
+    "biomorphic/reinstitute/romipetal/amazilia",
+    "biomorphic/seigler/megalonyx/seigler",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/sewerlike/reitman/sewerlike"
+  ],
+  "output_file": "biomorphic_reinstitute_bifara_wortle_output.txt"
+}

@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/actualise/lysolecithin/actualise",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/diploplacula/chimacum/unhuddled",
+    "bakongo/diploplacula/desaturation/rigdon",
+    "bakongo/fenagler/synanthetic/fenagler",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/incumbrances/reitman/incumbrances",
+    "bakongo/labials/reitman/labials",
+    "bakongo/monofilm/bemire/heelcap",
+    "bakongo/monofilm/reitman/ballot",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/unequivalent/endospermous/unworthily",
+    "bakongo/upglide/endospermous/bounces",
+    "bakongo/upglide/endospermous/captainries",
+    "bakongo/upglide/endospermous/fixable",
+    "bakongo/upglide/endospermous/freddie",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_overentreat_crockeryware_output.txt"
+}

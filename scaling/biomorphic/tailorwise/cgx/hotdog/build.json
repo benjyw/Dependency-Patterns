@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/keratosropy/unqueened/antennariid",
+    "biomorphic/lateraling/bemire/cotranspire",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/rectocolitic/criminating/chorographic",
+    "biomorphic/refiled/unqueened/nerves",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/semitransept/endospermous/pariahism",
+    "biomorphic/semitransept/endospermous/plumdamis",
+    "biomorphic/semitransept/endospermous/provo",
+    "biomorphic/semitransept/endospermous/quelled",
+    "biomorphic/wazirate/lysolecithin/wazirate"
+  ],
+  "output_file": "biomorphic_tailorwise_cgx_hotdog_output.txt"
+}

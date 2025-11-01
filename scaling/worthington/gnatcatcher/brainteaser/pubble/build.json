@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/gnatcatcher/chimacum/steadite",
+    "worthington/gnatcatcher/criminating/dirck",
+    "worthington/gnatcatcher/decemvii/elderton",
+    "worthington/gnatcatcher/desaturation/uricemia",
+    "worthington/gnatcatcher/flavian/annawan",
+    "worthington/gnatcatcher/flub/backberend",
+    "worthington/gnatcatcher/fumulus/principles",
+    "worthington/gnatcatcher/hereditably/dendroica",
+    "worthington/gnatcatcher/posted/hematal",
+    "worthington/gnatcatcher/redondilla/spades",
+    "worthington/gnatcatcher/spruiker/complies",
+    "worthington/gnatcatcher/strychnos/serac",
+    "worthington/gnatcatcher/subcuneus/geneticists",
+    "worthington/gnatcatcher/substantize/septilateral",
+    "worthington/gnatcatcher/trypa/sorosil",
+    "worthington/gnatcatcher/wots/desertrice",
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/unfishable/reitman/unfishable"
+  ],
+  "output_file": "worthington_gnatcatcher_brainteaser_pubble_output.txt"
+}

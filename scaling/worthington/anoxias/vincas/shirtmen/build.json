@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/aggressors/bemire/cyanastrum",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/beslaved/drek/access",
+    "worthington/beslaved/manifestive/usurerlike",
+    "worthington/beslaved/urinalist/scottsboro",
+    "worthington/cajole/lysolecithin/cvr",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/chasteningly/unqueened/finishing",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/ihp/endospermous/elf",
+    "worthington/regularizer/lysolecithin/regularizer",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/syenodiorite/lysolecithin/syenodiorite",
+    "worthington/tassal/gnathostomi/madden",
+    "worthington/tassal/kufiyeh/saccharum",
+    "worthington/tassal/lealness/appositional",
+    "worthington/uneducated/bemire/grinter",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_anoxias_vincas_shirtmen_output.txt"
+}

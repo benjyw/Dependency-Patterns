@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/catalogers/bogtrotter/groined",
+    "worthington/catalogers/chimacum/waldglas",
+    "worthington/catalogers/criminating/howenstein",
+    "worthington/catalogers/decemvii/occitone",
+    "worthington/catalogers/flub/syrus",
+    "worthington/catalogers/haircuts/bhadon",
+    "worthington/catalogers/onondagan/obliger",
+    "worthington/catalogers/spruiker/eloigned",
+    "worthington/catalogers/strychnos/wolver",
+    "worthington/catalogers/subcuneus/airily",
+    "worthington/catalogers/substantize/catamenia",
+    "worthington/catalogers/trypa/cytotrophy",
+    "worthington/catalogers/vincas/berberid",
+    "worthington/moldableness/thrasher/endospermous/cnossus"
+  ],
+  "output_file": "worthington_catalogers_hydrion_threaders_output.txt"
+}

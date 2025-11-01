@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/tassal/criminating/desmotrope",
+    "worthington/tassal/desaturation/unwarnedness",
+    "worthington/tassal/entrechat/falterers",
+    "worthington/tassal/gnathostomi/madden",
+    "worthington/tassal/hereditably/nematogonous",
+    "worthington/tassal/lealness/appositional",
+    "worthington/tassal/springvale/transferable"
+  ],
+  "output_file": "gpss_rudely_vidian_output.txt"
+}

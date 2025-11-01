@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/advances/bouche/axiom",
+    "bakongo/brunk/reitman/brunk",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/diploplacula/chimacum/unhuddled",
+    "bakongo/dualization/megalonyx/dualization",
+    "bakongo/floriage/reitman/floriage",
+    "bakongo/forestalled/criminating/underrates",
+    "bakongo/monofilm/antoninus/nugget",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "hypostasised/darkskin/tragopogon",
+    "hypostasised/endospermous/bikinis"
+  ],
+  "output_file": "hypostasised_prehensive_melanomata_output.txt"
+}

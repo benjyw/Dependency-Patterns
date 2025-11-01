@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/ayutthaya/reitman/ayutthaya",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/melian/endospermous/jaycees",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/pining",
+    "biomorphic/semitransept/endospermous/quot",
+    "biomorphic/semitransept/endospermous/renillidae",
+    "biomorphic/semitransept/endospermous/sneezers",
+    "biomorphic/semitransept/endospermous/valerle",
+    "biomorphic/semitransept/endospermous/vitellus",
+    "biomorphic/underbreath/reitman/underbreath",
+    "biomorphic/vondsira/reitman/vondsira"
+  ],
+  "output_file": "biomorphic_reinstitute_endospermous_songo_output.txt"
+}

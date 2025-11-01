@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/aggressors/bemire/cyanastrum",
+    "worthington/amperes/lysolecithin/emusifies",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/cajole/lysolecithin/cvr",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/cajole/punak/phospholipid",
+    "worthington/catalogers/gnathostomi/hamathite",
+    "worthington/catalogers/kufiyeh/sayce",
+    "worthington/catalogers/lealness/unswanlike",
+    "worthington/chasteningly/unqueened/finishing",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/ihp/endospermous/elf",
+    "worthington/lituoline/gnathostomi/gournay",
+    "worthington/lituoline/kufiyeh/secularism",
+    "worthington/lituoline/lealness/fervor",
+    "worthington/reflectively/criminating/outspeaker",
+    "worthington/reflectively/dykehopper/sulphonium",
+    "worthington/reflectively/gnathostomi/calliste",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/syenodiorite/lysolecithin/syenodiorite",
+    "worthington/tenson/lysolecithin/tenson",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_reflectively_vincas_hutt_output.txt"
+}

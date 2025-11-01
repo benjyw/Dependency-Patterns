@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/shogun/moya/corallina",
+    "biomorphic/shogun/springvale/louseberries",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/amaty/dhaman",
+    "nonsovereign/augites/demurs",
+    "nonsovereign/calliper/leeringly",
+    "nonsovereign/fatalisms/gemmeous",
+    "nonsovereign/guildite/sepal",
+    "nonsovereign/irade/avenges",
+    "nonsovereign/lusts/latinesque",
+    "nonsovereign/meagrely/unoutspoken",
+    "nonsovereign/ponderable/amentiferous",
+    "nonsovereign/predetainer/pleadings",
+    "nonsovereign/redeemed/arrhephoria",
+    "nonsovereign/rexes/cib",
+    "nonsovereign/routhercock/billons",
+    "nonsovereign/stovepipes/soothsays",
+    "nonsovereign/tareyn/revegetate",
+    "nonsovereign/twaddle/droits",
+    "nonsovereign/washboards/jady",
+    "nonsovereign/whosumdever/forksmith"
+  ],
+  "output_file": "nonsovereign_shillelah_phosphatidic_output.txt"
+}

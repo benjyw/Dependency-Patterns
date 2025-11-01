@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/bicolorous/algesia",
+    "gpss/endospermous/obtruder",
+    "gpss/endospermous/trinities",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/coverdale/endospermous/arbith",
+    "worthington/covering/endospermous/ganapati",
+    "worthington/jujutsu/interportal/pyorrhea",
+    "worthington/jujutsu/knotholes/tramroads",
+    "worthington/jujutsu/trapa/coldfinch",
+    "worthington/jujutsu/unspiteful/attapulgus",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/sleided/calceus/cherri/latescent",
+    "worthington/smoh/endospermous/multiplicate"
+  ],
+  "output_file": "gpss_phocodont_renealmia_output.txt"
+}

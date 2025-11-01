@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/alevins/bemire/apoop",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/beslaved/benedicta/neutralize",
+    "worthington/beslaved/epikia/plastochrone",
+    "worthington/beslaved/torbert/hadendowa",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/covering/endospermous/cacti",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/dygogram/bemire/choteau",
+    "worthington/ihp/endospermous/elf",
+    "worthington/pelomedusid/bemire/beslushed",
+    "worthington/pelomedusid/lealness/docosanoic",
+    "worthington/pelomedusid/reliers/baccae",
+    "worthington/pelomedusid/unqueened/pirrie",
+    "worthington/rendition/unqueened/cutters",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra",
+    "worthington/viomycins/lysolecithin/windgalls"
+  ],
+  "output_file": "worthington_pelomedusid_vincas_latins_output.txt"
+}

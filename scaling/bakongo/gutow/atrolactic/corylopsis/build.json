@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/alberton/recountless/alberton",
+    "bakongo/companionage/emparadise/meatball",
+    "bakongo/did/dustpans/unelegant",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/gutow/autoindex/directrixes",
+    "bakongo/gutow/hilary/stadholder",
+    "bakongo/gutow/lacertian/trappability",
+    "bakongo/gutow/lindanes/hoorayed",
+    "bakongo/gutow/reitman/brea",
+    "bakongo/gutow/vincas/epithecicia",
+    "bakongo/heptene/endospermous/compressible",
+    "bakongo/heptene/endospermous/compressible",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/inchase/burgers/apperil",
+    "bakongo/inchase/criminating/britte",
+    "bakongo/sapphera/reitman/orthoptera",
+    "bakongo/sensuosity/reitman/cubbyholes",
+    "bakongo/unequivalent/endospermous/unworthily"
+  ],
+  "output_file": "bakongo_gutow_atrolactic_corylopsis_output.txt"
+}

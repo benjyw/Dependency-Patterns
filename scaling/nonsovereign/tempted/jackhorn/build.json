@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adroop/routhercock/porphyrous",
+    "biomorphic/kittenish/synanthetic/kittenish",
+    "biomorphic/overdrapery/hereditably/parabolising",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/reinstitute/susana/scuz",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/thegn",
+    "biomorphic/tropisms/bouche/vivle",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/squareman"
+  ],
+  "output_file": "nonsovereign_tempted_jackhorn_output.txt"
+}

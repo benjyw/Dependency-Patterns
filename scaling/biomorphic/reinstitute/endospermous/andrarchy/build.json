@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/coarsest/reitman/arraying",
+    "biomorphic/reinstitute/endospermous/answerably",
+    "biomorphic/reinstitute/endospermous/articular",
+    "biomorphic/reinstitute/endospermous/cocinera",
+    "biomorphic/reinstitute/endospermous/cockily",
+    "biomorphic/reinstitute/endospermous/entailment",
+    "biomorphic/reinstitute/endospermous/fonder",
+    "biomorphic/reinstitute/endospermous/grove",
+    "biomorphic/reinstitute/endospermous/gryphite",
+    "biomorphic/reinstitute/endospermous/jermoonal",
+    "biomorphic/reinstitute/endospermous/junctly",
+    "biomorphic/reinstitute/endospermous/magdaleon",
+    "biomorphic/reinstitute/endospermous/motorise",
+    "biomorphic/reinstitute/endospermous/sirdar",
+    "biomorphic/reinstitute/endospermous/store",
+    "biomorphic/reinstitute/endospermous/sustentator",
+    "biomorphic/reinstitute/endospermous/wallflower",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/bleuler"
+  ],
+  "output_file": "biomorphic_reinstitute_endospermous_andrarchy_output.txt"
+}

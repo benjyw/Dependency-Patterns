@@ -1,0 +1,36 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "leggiest/bemire/apilary",
+    "leggiest/endospermous/abrahamite",
+    "leggiest/endospermous/abrahamite",
+    "leggiest/endospermous/amagasaki",
+    "leggiest/endospermous/categories",
+    "leggiest/endospermous/guily",
+    "leggiest/endospermous/gymkhanas",
+    "leggiest/endospermous/huddleston",
+    "leggiest/endospermous/retinae",
+    "leggiest/endospermous/rheumatoid",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/oxyosphresia/broadsided",
+    "leggiest/pirtleville/fibrose",
+    "leggiest/reliers/farsalah",
+    "leggiest/unqueened/dolous",
+    "leggiest/unqueened/dolous"
+  ],
+  "output_file": "leggiest_lysolecithin_utley_output.txt"
+}

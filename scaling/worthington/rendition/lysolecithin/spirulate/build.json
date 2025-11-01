@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/aggressors/bemire/cyanastrum",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/cajole/lysolecithin/cvr",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/catalogers/gnathostomi/hamathite",
+    "worthington/catalogers/kufiyeh/sayce",
+    "worthington/catalogers/lealness/unswanlike",
+    "worthington/chasteningly/unqueened/finishing",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/doornails/bemire/overletting",
+    "worthington/ihp/endospermous/elf",
+    "worthington/rendition/criminating/alphabetize",
+    "worthington/rendition/unqueened/cutters",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_rendition_lysolecithin_spirulate_output.txt"
+}

@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/misbecame/reitman/misbecame",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/subhymenium/chimacum/estamin",
+    "worthington/subhymenium/criminating/odorless",
+    "worthington/subhymenium/desaturation/deludingly",
+    "worthington/subhymenium/spruiker/gorakhpur"
+  ],
+  "output_file": "worthington_subhymenium_entrechat_cornuto_output.txt"
+}

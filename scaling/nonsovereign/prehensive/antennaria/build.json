@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/fetwa/antoninus/basics",
+    "biomorphic/idee/reitman/idee",
+    "biomorphic/leora/megalonyx/leora",
+    "biomorphic/luminousness/reitman/luminousness",
+    "biomorphic/philippizer/criminating/teargases",
+    "biomorphic/polentas/bouche/wardress",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/spondylic/chimacum/yirmilik",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/darkskin/reboundant",
+    "nonsovereign/endospermous/glimes"
+  ],
+  "output_file": "nonsovereign_prehensive_antennaria_output.txt"
+}

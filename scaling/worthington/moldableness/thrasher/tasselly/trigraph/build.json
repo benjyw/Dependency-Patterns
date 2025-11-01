@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/catalogers/chimacum/waldglas",
+    "worthington/catalogers/decemvii/occitone",
+    "worthington/catalogers/desaturation/pectinatella",
+    "worthington/catalogers/gnathostomi/hamathite",
+    "worthington/catalogers/haircuts/bhadon",
+    "worthington/catalogers/kufiyeh/sayce",
+    "worthington/catalogers/lealness/unswanlike",
+    "worthington/catalogers/speciosity/upbrast",
+    "worthington/eximiousness/reitman/eximiousness",
+    "worthington/fango/criminating/coeff",
+    "worthington/fango/ermanno/pillorize",
+    "worthington/lituoline/chimacum/kaczer",
+    "worthington/lituoline/decemvii/concorde",
+    "worthington/lituoline/desaturation/mythopoetry",
+    "worthington/lituoline/gnathostomi/gournay",
+    "worthington/lituoline/haircuts/outhunts",
+    "worthington/lituoline/kufiyeh/secularism",
+    "worthington/lituoline/lealness/fervor",
+    "worthington/lituoline/speciosity/thonotosassa",
+    "worthington/misbecame/reitman/misbecame",
+    "worthington/unfishable/reitman/unfishable"
+  ],
+  "output_file": "worthington_moldableness_thrasher_tasselly_trigraph_output.txt"
+}

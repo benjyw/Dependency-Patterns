@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/afterwit/lysolecithin/supposing",
+    "biomorphic/bullbat/lysolecithin/supervictory",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/clockcase/lysolecithin/actuaryship",
+    "biomorphic/coarsest/lysolecithin/medfield",
+    "biomorphic/coarsest/lysolecithin/medfield",
+    "biomorphic/ephedrine/lysolecithin/verselet",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/gloveman/lysolecithin/soapmaker",
+    "biomorphic/instigatrix/lysolecithin/dupaix",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/ninnyism/lysolecithin/cicatrized",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/semitransept/endospermous/plumdamis"
+  ],
+  "output_file": "biomorphic_vibrato_lysolecithin_caromed_output.txt"
+}

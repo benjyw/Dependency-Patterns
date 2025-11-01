@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/advances/bouche/axiom",
+    "bakongo/akroter/reitman/akroter",
+    "bakongo/ambulator/bouche/matthaeus",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/ditremidae/criminating/oligoclasite",
+    "bakongo/ditremidae/vincas/hispaniola",
+    "bakongo/excretal/reitman/excretal",
+    "bakongo/guidonia/reitman/guidonia",
+    "bakongo/isotactic/reitman/isotactic",
+    "bakongo/monofilm/reitman/ballot",
+    "bakongo/simeonism/lysolecithin/vasos",
+    "bakongo/talcose/endospermous/talcose",
+    "bakongo/upglide/endospermous/crabbily",
+    "bakongo/upglide/endospermous/espier",
+    "bakongo/upglide/endospermous/heathberry",
+    "bakongo/upglide/endospermous/implemented",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/muncerian",
+    "bakongo/upglide/endospermous/sodio",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/upglide/endospermous/ununiformed"
+  ],
+  "output_file": "bakongo_diamantine_ofori_loadpenny_prairieweed_output.txt"
+}

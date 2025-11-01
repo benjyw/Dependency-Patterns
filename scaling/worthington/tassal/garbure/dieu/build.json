@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/tassal/chimacum/eirenic",
+    "worthington/tassal/criminating/desmotrope",
+    "worthington/tassal/desaturation/unwarnedness",
+    "worthington/tassal/flavian/buccate",
+    "worthington/tassal/hierro/indulged",
+    "worthington/tassal/strychnos/medians"
+  ],
+  "output_file": "worthington_tassal_garbure_dieu_output.txt"
+}

@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/birthstone/reitman/birthstone",
+    "bakongo/puparia/hereditably/pupilability",
+    "bakongo/puparia/mdiv/melampod",
+    "bakongo/puparia/wilinski/unequated",
+    "bakongo/sudses/criminating/almund",
+    "bakongo/tagboard/reitman/tagboard",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/unchased",
+    "bakongo/upglide/endospermous/unflesh"
+  ],
+  "output_file": "bakongo_puparia_hemisect_humboldt_output.txt"
+}

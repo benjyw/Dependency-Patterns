@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/picry/agronomial/nonequivocal",
+    "biomorphic/picry/curiosa/verbesina",
+    "biomorphic/picry/heliconist/tumorous",
+    "biomorphic/reinstitute/endospermous/aetiologue",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/semitransept/endospermous/microbiosis",
+    "biomorphic/semitransept/endospermous/pelages",
+    "biomorphic/semitransept/endospermous/pining",
+    "biomorphic/semitransept/endospermous/thegn",
+    "biomorphic/undertakers/lysolecithin/undertakers",
+    "biomorphic/undertakers/nontheologic/clouters",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/vondsira/reitman/vondsira",
+    "nonsovereign/earner/teaboy",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/endospermous/squareman"
+  ],
+  "output_file": "nonsovereign_earthsets_reverses_output.txt"
+}

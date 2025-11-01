@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/alevins/criminating/bucconinae",
+    "worthington/beslaved/benedicta/neutralize",
+    "worthington/beslaved/bmo/birds",
+    "worthington/beslaved/dissembly/warrenne",
+    "worthington/beslaved/epikia/plastochrone",
+    "worthington/beslaved/melaniline/paned",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/coverdale/endospermous/arbith",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/ihp/endospermous/elf",
+    "worthington/psycholepsy/pentitol/peppiness",
+    "worthington/travelogues/unionic/regulatory"
+  ],
+  "output_file": "worthington_alevins_bemire_apoop_output.txt"
+}

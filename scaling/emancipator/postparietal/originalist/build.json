@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/alloxanate/slopstone/winebaum",
+    "bakongo/alloxanate/vincas/ophthalm",
+    "bakongo/despumate/bouche/gleaned",
+    "bakongo/diamantine/ofori/endospermous/deutschland",
+    "bakongo/diamantine/ofori/endospermous/jocuma",
+    "bakongo/diamantine/ofori/endospermous/lapeyrouse",
+    "bakongo/diamantine/ofori/endospermous/presumer",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/diopters/autoscopy/foreorder",
+    "bakongo/diopters/kheths/amies",
+    "bakongo/diopters/loathly/ordanchite",
+    "bakongo/diopters/supernotably/belshazzar",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/heptene/endospermous/palmettes",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/espier",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/tarred",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_postparietal_originalist_output.txt"
+}

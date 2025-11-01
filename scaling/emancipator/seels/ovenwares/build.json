@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/endospermous/deutschland",
+    "bakongo/diamantine/ofori/endospermous/lapeyrouse",
+    "bakongo/diamantine/ofori/endospermous/presumer",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/preconsuming/vincas/chalky",
+    "bakongo/stylosporous/remeeting/audrey/gunarchy",
+    "bakongo/stylosporous/remeeting/chickories/emporiums",
+    "bakongo/waywode/unqueened/verbifies",
+    "emancipator/bicolorous/calah",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_seels_ovenwares_output.txt"
+}

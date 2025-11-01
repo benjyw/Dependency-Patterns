@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/endospermous/deutschland",
+    "bakongo/diamantine/ofori/endospermous/jocuma",
+    "bakongo/diamantine/ofori/endospermous/lapeyrouse",
+    "bakongo/diamantine/ofori/endospermous/presumer",
+    "bakongo/diamantine/ofori/terahertz/chemokinesis",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/pederero/reitman/pederero",
+    "bakongo/scopulate/communities/cenobium",
+    "bakongo/scopulate/logician/pionic",
+    "bakongo/scopulate/vapulatory/nitrogelatin",
+    "emancipator/copremias/niccolic"
+  ],
+  "output_file": "emancipator_seels_vegetate_output.txt"
+}

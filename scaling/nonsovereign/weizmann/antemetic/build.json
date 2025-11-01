@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/issie/reitman/issie",
+    "biomorphic/picry/criminating/pyrophilia",
+    "biomorphic/picry/curiosa/verbesina",
+    "biomorphic/picry/heliconist/tumorous",
+    "biomorphic/reinstitute/romipetal/amazilia",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/pelages",
+    "biomorphic/semitransept/endospermous/sublimed",
+    "biomorphic/semitransept/endospermous/thegn",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/vondsira/reitman/vondsira",
+    "nonsovereign/earner/teaboy",
+    "nonsovereign/endospermous/glimes"
+  ],
+  "output_file": "nonsovereign_weizmann_antemetic_output.txt"
+}

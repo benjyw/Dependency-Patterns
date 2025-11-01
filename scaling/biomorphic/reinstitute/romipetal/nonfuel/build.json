@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/efractory/berseems/spearheads",
+    "biomorphic/hookworm/hereditably/centrisms",
+    "biomorphic/linkiest/reitman/linkiest",
+    "biomorphic/mex/megalonyx/ceraunics",
+    "biomorphic/mex/theologised/elma",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/reinstitute/eckhart/vasileior",
+    "biomorphic/reinstitute/featheredges/goggan",
+    "biomorphic/reinstitute/quarrelproof/dermatomere",
+    "biomorphic/reinstitute/uncustomed/pleiotropism",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/sneezers",
+    "biomorphic/semitransept/endospermous/unsacerdotal"
+  ],
+  "output_file": "biomorphic_reinstitute_romipetal_nonfuel_output.txt"
+}

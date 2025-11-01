@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/chromometer/lysolecithin/savelha",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/foreappoint/criminating/outvaunted",
+    "biomorphic/foredescribe/lysolecithin/nauseant",
+    "biomorphic/keratosropy/unqueened/antennariid",
+    "biomorphic/lateraling/bemire/cotranspire",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/refiled/unqueened/nerves",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/spondylic/gnathostomi/snipish",
+    "biomorphic/spondylic/kufiyeh/undergrowths",
+    "biomorphic/spondylic/lealness/inurements",
+    "biomorphic/sutras/lysolecithin/sutras"
+  ],
+  "output_file": "biomorphic_foreappoint_vincas_fulness_output.txt"
+}

@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/bastioned/unqueened/hormist",
+    "bakongo/despumate/bouche/gleaned",
+    "bakongo/did/dustpans/unelegant",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/gwyneth/titulation/gwyneth",
+    "bakongo/heptene/endospermous/compressible",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/pobox/bemire/empiricism",
+    "bakongo/prolia/lysolecithin/reanalyzes",
+    "bakongo/stinkardly/unqueened/isopodous",
+    "bakongo/tagboard/reitman/tagboard",
+    "bakongo/unequivalent/endospermous/unworthily",
+    "bakongo/upglide/endospermous/espier",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/waywode/unqueened/verbifies"
+  ],
+  "output_file": "bakongo_solubilizing_bristliest_pseudataxic_output.txt"
+}

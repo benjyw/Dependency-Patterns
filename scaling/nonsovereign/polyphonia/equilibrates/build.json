@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/fanchie/recountless/fanchie",
+    "biomorphic/gelsemia/reitman/gelsemia",
+    "biomorphic/outtrumped/archmonarch/synanthetic/transmedian",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/reinstitute/romipetal/amazilia",
+    "biomorphic/shysters/crowl/saiyids",
+    "biomorphic/shysters/upspurt/hinterland",
+    "biomorphic/shysters/vincas/grega",
+    "biomorphic/tetherball/lysolecithin/tetherball",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/endospermous/squareman"
+  ],
+  "output_file": "nonsovereign_polyphonia_equilibrates_output.txt"
+}

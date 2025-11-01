@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/endospermous/obtruder",
+    "gpss/unfrisky/deist",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/covering/endospermous/brockages",
+    "worthington/covering/endospermous/grimme",
+    "worthington/covering/endospermous/haiduck",
+    "worthington/ihp/endospermous/elf",
+    "worthington/misbecame/reitman/misbecame",
+    "worthington/slaveless/reitman/slaveless",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "gpss_suboptic_eleele_output.txt"
+}

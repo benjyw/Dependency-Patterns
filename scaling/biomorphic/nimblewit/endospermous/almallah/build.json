@@ -1,0 +1,36 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/amissness/reitman/amissness",
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/bilaterally/reitman/bilaterally",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/issie/reitman/issie",
+    "biomorphic/parolees/chimacum/dashpots",
+    "biomorphic/propagating/reitman/propagating",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/pelages",
+    "biomorphic/solsticion/chimacum/gig",
+    "biomorphic/surface/reitman/surface",
+    "biomorphic/uniseptate/lysolecithin/uniseptate",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "biomorphic/vondsira/reitman/vondsira"
+  ],
+  "output_file": "biomorphic_nimblewit_endospermous_almallah_output.txt"
+}

@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/darkskin/nonbroody",
+    "sizz/endospermous/farrington",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/catalogers/chimacum/waldglas",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/defeaters/chimacum/pennyleaf",
+    "worthington/eclats/chimacum/falconelle",
+    "worthington/gnatcatcher/chimacum/steadite",
+    "worthington/lituoline/chimacum/kaczer",
+    "worthington/mangabey/criminating/necessarius",
+    "worthington/medicines/chimacum/knab",
+    "worthington/packmaker/chimacum/caracals",
+    "worthington/rubbingstone/bouche/outjazz",
+    "worthington/synanons/megalonyx/synanons",
+    "worthington/uneducated/antoninus/ripsack",
+    "worthington/workpiece/reitman/workpiece",
+    "worthington/wrestable/reitman/wrestable"
+  ],
+  "output_file": "sizz_prehensive_authority_output.txt"
+}

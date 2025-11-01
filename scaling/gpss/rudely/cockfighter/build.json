@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/eclats/criminating/oligophrenic",
+    "worthington/eclats/desaturation/patronizing",
+    "worthington/eclats/entrechat/laudianism",
+    "worthington/eclats/gnathostomi/rigs",
+    "worthington/eclats/hereditably/philogarlic",
+    "worthington/eclats/lealness/glossotype",
+    "worthington/eclats/springvale/recurvant",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/filbert"
+  ],
+  "output_file": "gpss_rudely_cockfighter_output.txt"
+}

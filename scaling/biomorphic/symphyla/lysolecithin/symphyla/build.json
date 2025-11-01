@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/lateraling/bemire/cotranspire",
+    "biomorphic/maduro/unqueened/nephology",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/rewey/unqueened/retinacula",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/gazella",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/semitransept/endospermous/pariahism",
+    "biomorphic/semitransept/endospermous/plumdamis",
+    "biomorphic/semitransept/endospermous/provo"
+  ],
+  "output_file": "biomorphic_symphyla_lysolecithin_symphyla_output.txt"
+}

@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/gnatcatcher/brainteaser/pubble",
+    "worthington/gnatcatcher/criminating/dirck",
+    "worthington/gnatcatcher/desaturation/uricemia",
+    "worthington/gnatcatcher/flavian/annawan",
+    "worthington/gnatcatcher/flub/backberend",
+    "worthington/gnatcatcher/fumulus/principles",
+    "worthington/gnatcatcher/gnathostomi/housewive",
+    "worthington/gnatcatcher/hereditably/dendroica",
+    "worthington/gnatcatcher/hierro/bhabar",
+    "worthington/gnatcatcher/kufiyeh/limberness",
+    "worthington/gnatcatcher/lealness/unable",
+    "worthington/gnatcatcher/redondilla/spades",
+    "worthington/gnatcatcher/spruiker/complies",
+    "worthington/gnatcatcher/strychnos/serac",
+    "worthington/gnatcatcher/subcuneus/geneticists",
+    "worthington/gnatcatcher/wots/desertrice",
+    "worthington/ihp/endospermous/elf",
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_gnatcatcher_upaisle_prest_output.txt"
+}

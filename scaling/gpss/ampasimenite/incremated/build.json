@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/arnaeus/thymy",
+    "gpss/endospermous/chaves",
+    "gpss/endospermous/obtruder",
+    "gpss/endospermous/trinities",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/covering/endospermous/festatus",
+    "worthington/ihp/endospermous/elf",
+    "worthington/joinerville/prickiest/pilotfish",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/moldableness/thrasher/endospermous/cankerberry",
+    "worthington/moldableness/thrasher/endospermous/coed",
+    "worthington/moldableness/thrasher/endospermous/croset",
+    "worthington/moldableness/thrasher/endospermous/eligibility",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/mispatched",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/unadduceable",
+    "worthington/preshrinks/routhercock/enamour",
+    "worthington/sleided/stenobregma/synanthetic/dragginess"
+  ],
+  "output_file": "gpss_ampasimenite_incremated_output.txt"
+}

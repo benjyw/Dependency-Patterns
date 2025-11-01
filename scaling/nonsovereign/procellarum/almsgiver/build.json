@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/amarillos/hydrion/unresisted",
+    "biomorphic/gualala/endospermous/phycitidae",
+    "biomorphic/patrilinear/hydrion/kawika",
+    "biomorphic/prestomial/hydrion/bromberg",
+    "biomorphic/reinstitute/cloghaun/outsulking",
+    "biomorphic/reinstitute/differen/wrannock",
+    "biomorphic/reinstitute/endospermous/aetiologue",
+    "biomorphic/reinstitute/endospermous/agathist",
+    "biomorphic/reinstitute/endospermous/boilover",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/reinstitute/endospermous/serrula",
+    "biomorphic/reinstitute/forsythe/besmutting",
+    "biomorphic/reinstitute/partisanry/grumps",
+    "biomorphic/reinstitute/romipetal/amazilia",
+    "biomorphic/reinstitute/splachnaceae/lochiopyra",
+    "biomorphic/runtier/unspiteful/reblooms",
+    "biomorphic/semitransept/endospermous/herreid",
+    "biomorphic/spondylic/hydrion/juline",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/valeryl/hydrion/barrennesses",
+    "nonsovereign/endospermous/squareman",
+    "nonsovereign/improvement/styrogallol",
+    "nonsovereign/variolated/windowmaking"
+  ],
+  "output_file": "nonsovereign_procellarum_almsgiver_output.txt"
+}

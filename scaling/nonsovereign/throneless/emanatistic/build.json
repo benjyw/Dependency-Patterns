@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/esau/endospermous/etape",
+    "biomorphic/esau/endospermous/franc",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/endospermous/nonflyable",
+    "nonsovereign/mathura/torta",
+    "nonsovereign/minivers/summertown",
+    "nonsovereign/prediscover/outbuilds",
+    "nonsovereign/supervenient/stationarily"
+  ],
+  "output_file": "nonsovereign_throneless_emanatistic_output.txt"
+}

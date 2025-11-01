@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/endospermous/jocuma",
+    "bakongo/diamantine/ofori/spoilsport/keycard",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/goniotheca/vincas/locustal",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/phantomship",
+    "bakongo/upglide/endospermous/tarred",
+    "emancipator/routhercock/aristomachus",
+    "emancipator/vastest/chleuh"
+  ],
+  "output_file": "emancipator_dropflower_orcins_output.txt"
+}

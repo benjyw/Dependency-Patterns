@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/chinkiest/kaama",
+    "gpss/darkskin/papulated",
+    "gpss/endospermous/obtruder",
+    "gpss/gershon/salpingian",
+    "gpss/gibbals/brokages",
+    "gpss/sarsnet/iditol",
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/debtors/regioned/aips",
+    "worthington/homes/ehlite/alanyl",
+    "worthington/hordville/semispan/cupfuls",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/oversmoothly/dougl/nickeline",
+    "worthington/sleided/surprizal/progenitors/diction",
+    "worthington/smoh/endospermous/zelanian",
+    "worthington/teazelling/motorbuses/teazelling",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "gpss_unbridles_finds_output.txt"
+}

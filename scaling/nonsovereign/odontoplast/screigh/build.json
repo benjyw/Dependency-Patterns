@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/cracking/routhercock/kitabi",
+    "biomorphic/eruditions/chugalugged/cyclorrhapha",
+    "biomorphic/eruditions/routhercock/zolaesque",
+    "biomorphic/marshland/singlestep/trichoptera",
+    "biomorphic/nucal/vincas/mordy",
+    "biomorphic/outtrumped/postsign/synanthetic/unutilized",
+    "biomorphic/reinstitute/endospermous/acacian",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/reinstitute/endospermous/nonbleach",
+    "biomorphic/reinstitute/endospermous/reemphasized",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/semitransept/endospermous/thegn",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/endospermous/squareman"
+  ],
+  "output_file": "nonsovereign_odontoplast_screigh_output.txt"
+}

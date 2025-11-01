@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/bridgeables/criminating/overhuge",
+    "biomorphic/capitalizer/burgers/innovator",
+    "biomorphic/esau/endospermous/scrupular",
+    "biomorphic/fetwa/bemire/candiot",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/prickling/asidehand/chevies",
+    "biomorphic/prickling/medicaids/stirrupwise",
+    "biomorphic/prickling/myocardial/mesosuchia",
+    "biomorphic/prickling/patnesses/multiunion",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/retransplant/reitman/retransplant",
+    "biomorphic/unlimbered/triturature/schizoidism",
+    "biomorphic/untellable/dustpans/anthoxanthum",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig"
+  ],
+  "output_file": "biomorphic_prickling_exospheric_flecking_output.txt"
+}

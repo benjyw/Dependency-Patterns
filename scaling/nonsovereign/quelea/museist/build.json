@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/disclosive/synanthetic/disclosive",
+    "biomorphic/esau/endospermous/scrupular",
+    "biomorphic/fetwa/bemire/candiot",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/haplobiont/lysolecithin/haplobiont",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/reinstitute/endospermous/acacian",
+    "biomorphic/reinstitute/endospermous/draftsman",
+    "biomorphic/reinstitute/endospermous/reemphasized",
+    "biomorphic/reinstitute/endospermous/vitaminizing",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/semitransept/endospermous/gazella",
+    "biomorphic/undauntedly/reitman/undauntedly",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/chugalugged/findal",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/overentreat/conceits"
+  ],
+  "output_file": "nonsovereign_quelea_museist_output.txt"
+}

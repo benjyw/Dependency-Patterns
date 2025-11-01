@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/advances/bouche/axiom",
+    "bakongo/diamantine/ofori/cockleshell/sciomachy",
+    "bakongo/diamantine/ofori/deckswabber/gangplow",
+    "bakongo/diamantine/ofori/iesg/masticic",
+    "bakongo/diamantine/ofori/incendiarist/chiefery",
+    "bakongo/diamantine/ofori/outhaul/charteris",
+    "bakongo/diamantine/ofori/pteridosperm/phyxius",
+    "bakongo/diamantine/ofori/refutes/levanters",
+    "bakongo/diamantine/ofori/sonnetted/decadal",
+    "bakongo/forestalled/criminating/underrates",
+    "bakongo/forestalled/hereditably/sirra",
+    "bakongo/gallantry/hereditably/roadrunners",
+    "bakongo/monofilm/reitman/ballot",
+    "bakongo/swankie/shover/haemanthus",
+    "bakongo/upglide/endospermous/noti",
+    "bakongo/upglide/endospermous/ultrafeudal"
+  ],
+  "output_file": "bakongo_diamantine_ofori_bursters_ntn_output.txt"
+}

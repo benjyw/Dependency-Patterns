@@ -1,0 +1,36 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "leggiest/berseems/adrianople",
+    "leggiest/bouche/conformal",
+    "leggiest/bouche/conformal",
+    "leggiest/endospermous/abrahamite",
+    "leggiest/endospermous/amagasaki",
+    "leggiest/endospermous/dustbins",
+    "leggiest/endospermous/guily",
+    "leggiest/endospermous/huddleston",
+    "leggiest/endospermous/infectress",
+    "leggiest/endospermous/ivybells",
+    "leggiest/endospermous/jillions",
+    "leggiest/endospermous/satispassion",
+    "leggiest/endospermous/wordsman",
+    "leggiest/endospermous/zygomycetes",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/quarrelproof/oenophiles"
+  ],
+  "output_file": "leggiest_featheredges_grallatorial_output.txt"
+}

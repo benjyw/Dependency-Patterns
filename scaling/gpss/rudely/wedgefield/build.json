@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/subhymenium/criminating/odorless",
+    "worthington/subhymenium/desaturation/deludingly",
+    "worthington/subhymenium/entrechat/cornuto",
+    "worthington/subhymenium/gnathostomi/refurnish",
+    "worthington/subhymenium/hereditably/interruptive",
+    "worthington/subhymenium/lealness/dedagach",
+    "worthington/subhymenium/springvale/etatism"
+  ],
+  "output_file": "gpss_rudely_wedgefield_output.txt"
+}

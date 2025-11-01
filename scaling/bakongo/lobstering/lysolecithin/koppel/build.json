@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/gutow/lysolecithin/thegndom",
+    "bakongo/monofilm/oxyosphresia/ashpan",
+    "bakongo/muscovade/lysolecithin/kidnaper",
+    "bakongo/prenominical/lysolecithin/bierbalk",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/sapphera/lysolecithin/smiler",
+    "bakongo/sensuosity/lysolecithin/terminal",
+    "bakongo/siccan/lysolecithin/rummier",
+    "bakongo/tanker/lysolecithin/octostichous",
+    "bakongo/technicality/lysolecithin/calthrop",
+    "bakongo/technicality/lysolecithin/calthrop",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/bounces",
+    "bakongo/upglide/endospermous/netherstone",
+    "bakongo/upglide/endospermous/physoclisti",
+    "bakongo/upglide/endospermous/ultrafeudal"
+  ],
+  "output_file": "bakongo_lobstering_lysolecithin_koppel_output.txt"
+}

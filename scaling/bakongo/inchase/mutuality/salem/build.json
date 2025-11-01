@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/gutow/bemire/agrise",
+    "bakongo/inchase/bemire/hippocratea",
+    "bakongo/inchase/criminating/britte",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/sapphera/bemire/amandine",
+    "bakongo/sensuosity/bemire/imping",
+    "bakongo/strucion/dissembly/brechtian",
+    "bakongo/superable/unionic/untie",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/bounces",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/yggdrasil/endospermous/elegised"
+  ],
+  "output_file": "bakongo_inchase_mutuality_salem_output.txt"
+}

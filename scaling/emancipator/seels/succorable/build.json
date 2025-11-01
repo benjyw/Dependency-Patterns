@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/courant/routhercock/topepo",
+    "bakongo/diamantine/ofori/endospermous/amah",
+    "bakongo/diamantine/ofori/endospermous/chremzel",
+    "bakongo/diamantine/ofori/endospermous/deutschland",
+    "bakongo/diamantine/ofori/endospermous/presumer",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/enophthalmos/criminating/slingers",
+    "bakongo/jareb/chugalugged/photophilic",
+    "bakongo/jareb/routhercock/lieblich",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/stylosporous/antick/synanthetic/teleologies",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/ochreish",
+    "bakongo/upglide/endospermous/tarred",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "emancipator/endospermous/scyphiform",
+    "emancipator/endospermous/tobaccoless",
+    "emancipator/threated/psycholeptic"
+  ],
+  "output_file": "emancipator_seels_succorable_output.txt"
+}

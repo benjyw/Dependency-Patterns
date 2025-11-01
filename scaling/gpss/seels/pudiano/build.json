@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/copremias/homoeomeric",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/imcnt/reitman/imcnt",
+    "worthington/malie/communities/petroglyph",
+    "worthington/malie/logician/soxhlet",
+    "worthington/malie/vapulatory/moureaux",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/moldableness/thrasher/terahertz/androphobia"
+  ],
+  "output_file": "gpss_seels_pudiano_output.txt"
+}

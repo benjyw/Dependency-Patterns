@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/lituoline/chimacum/kaczer",
+    "worthington/lituoline/criminating/akaroa",
+    "worthington/lituoline/desaturation/mythopoetry",
+    "worthington/lituoline/entrechat/civilly",
+    "worthington/lituoline/springvale/phoneticist",
+    "worthington/mithridatic/endospermous/antiferment"
+  ],
+  "output_file": "worthington_lituoline_fusobteria_idlewild_output.txt"
+}

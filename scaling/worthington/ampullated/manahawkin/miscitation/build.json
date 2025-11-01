@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/catalogers/spruiker/eloigned",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/defeaters/spruiker/obaza",
+    "worthington/eclats/spruiker/plateaus",
+    "worthington/gnatcatcher/spruiker/complies",
+    "worthington/lituoline/spruiker/macaco",
+    "worthington/medicines/spruiker/allele",
+    "worthington/packmaker/spruiker/tickseeded",
+    "worthington/subhymenium/spruiker/gorakhpur",
+    "worthington/tassal/spruiker/incask"
+  ],
+  "output_file": "worthington_ampullated_manahawkin_miscitation_output.txt"
+}

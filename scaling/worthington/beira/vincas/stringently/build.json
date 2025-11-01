@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/alevins/bemire/apoop",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/beira/criminating/maudlinly",
+    "worthington/beslaved/benedicta/neutralize",
+    "worthington/beslaved/dissembly/warrenne",
+    "worthington/beslaved/epikia/plastochrone",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/cinenegative/lysolecithin/nonexpanding",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/covering/endospermous/tranqs",
+    "worthington/covering/endospermous/zygantrum",
+    "worthington/excurvated/lysolecithin/cursedness",
+    "worthington/frigorifical/lysolecithin/deeper",
+    "worthington/fulbright/lysolecithin/camuy",
+    "worthington/ihp/endospermous/elf",
+    "worthington/psycholepsy/pentitol/peppiness",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra",
+    "worthington/visors/lysolecithin/visors",
+    "worthington/vocalistic/lysolecithin/axone"
+  ],
+  "output_file": "worthington_beira_vincas_stringently_output.txt"
+}

@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/endospermous/obtruder",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/covering/endospermous/slbm",
+    "worthington/empoverish/qaid/sortable",
+    "worthington/moldableness/thrasher/endospermous/anilino",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/sleided/dizzyingly/synanthetic/stalagmites",
+    "worthington/sleided/network/synanthetic/gulanganes",
+    "worthington/sleided/preventible/nutricism/superlative",
+    "worthington/sleided/preventible/vulcanising/acclamations",
+    "worthington/unfishable/reitman/unfishable"
+  ],
+  "output_file": "gpss_idiolects_lancey_output.txt"
+}

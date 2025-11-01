@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/aggressors/bemire/cyanastrum",
+    "worthington/amperes/lysolecithin/emusifies",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/cajole/lysolecithin/cvr",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/chasteningly/unqueened/finishing",
+    "worthington/covering/endospermous/absalom",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/covering/endospermous/tranqs",
+    "worthington/doornails/bemire/overletting",
+    "worthington/fjelsted/lysolecithin/fjelsted",
+    "worthington/frigorifical/lysolecithin/deeper",
+    "worthington/frigorifical/lysolecithin/deeper",
+    "worthington/heldentenors/lysolecithin/bri",
+    "worthington/ihp/endospermous/elf",
+    "worthington/pelomedusid/reliers/baccae",
+    "worthington/pelomedusid/unqueened/pirrie",
+    "worthington/sarinda/lysolecithin/sarinda",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/syenodiorite/lysolecithin/syenodiorite",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_remixture_lysolecithin_remixture_output.txt"
+}

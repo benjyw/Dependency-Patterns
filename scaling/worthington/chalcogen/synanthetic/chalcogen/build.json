@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/debtors/regioned/aips",
+    "worthington/inopine/reitman/inopine",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/overscoring/triturature/cystomyoma",
+    "worthington/piazzi/burgers/idioretinal",
+    "worthington/smoh/endospermous/multiplicate",
+    "worthington/zebe/criminating/lotta"
+  ],
+  "output_file": "worthington_chalcogen_synanthetic_chalcogen_output.txt"
+}

@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adventured/dissembly/lateliness",
+    "biomorphic/casemate/lysolecithin/boggier",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/clockcase/lysolecithin/actuaryship",
+    "biomorphic/ephedrine/lysolecithin/verselet",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/halecomorphi/pentitol/maskalonges",
+    "biomorphic/instigatrix/lysolecithin/dupaix",
+    "biomorphic/keratosropy/unqueened/antennariid",
+    "biomorphic/kronur/criminating/emmers",
+    "biomorphic/melancholily/unionic/elevenfold",
+    "biomorphic/menispermine/endospermous/rafe",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/refiled/unqueened/nerves",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/cedric",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/semitransept/endospermous/provo",
+    "biomorphic/tropophyte/bemire/dichronous",
+    "biomorphic/tropophyte/mutuality/chidden"
+  ],
+  "output_file": "biomorphic_masaridinae_lysolecithin_masaridinae_output.txt"
+}

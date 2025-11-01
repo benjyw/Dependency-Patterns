@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/plouky/efph",
+    "gpss/solemnitude/cognitively",
+    "worthington/alevins/bemire/apoop",
+    "worthington/alevins/criminating/bucconinae",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/beslaved/benedicta/neutralize",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/covering/endospermous/homilist",
+    "worthington/filiciform/synanthetic/unanalogous",
+    "worthington/ihp/endospermous/elf",
+    "worthington/knifing/synanthetic/cresive",
+    "worthington/pelomedusid/unqueened/pirrie",
+    "worthington/viomycins/lysolecithin/windgalls"
+  ],
+  "output_file": "gpss_unlichened_unrebuked_output.txt"
+}

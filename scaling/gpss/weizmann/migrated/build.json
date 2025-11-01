@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/earner/vetchy",
+    "gpss/endospermous/obtruder",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/covering/endospermous/grimme",
+    "worthington/covering/endospermous/maid",
+    "worthington/covering/endospermous/rabulistic",
+    "worthington/covering/endospermous/slbm",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/covering/endospermous/yaksha",
+    "worthington/desiring/reitman/desiring",
+    "worthington/moldableness/thrasher/romipetal/ammonoidean",
+    "worthington/tensure/reitman/tensure",
+    "worthington/twistily/criminating/detonable",
+    "worthington/twistily/curiosa/bewitchery",
+    "worthington/twistily/heliconist/ejidal"
+  ],
+  "output_file": "gpss_weizmann_migrated_output.txt"
+}

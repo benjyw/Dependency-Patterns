@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/covering/endospermous/prosenchyma",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/moldableness/thrasher/endospermous/anilino",
+    "worthington/moldableness/thrasher/endospermous/anilino",
+    "worthington/moldableness/thrasher/endospermous/deists",
+    "worthington/moldableness/thrasher/endospermous/emphasized",
+    "worthington/moldableness/thrasher/endospermous/fluey",
+    "worthington/moldableness/thrasher/endospermous/moult",
+    "worthington/moldableness/thrasher/endospermous/poussette",
+    "worthington/moldableness/thrasher/endospermous/prewelwiring",
+    "worthington/moldableness/thrasher/endospermous/requitable",
+    "worthington/moldableness/thrasher/endospermous/sciara",
+    "worthington/moldableness/thrasher/endospermous/shmears",
+    "worthington/moldableness/thrasher/endospermous/stupors",
+    "worthington/moldableness/thrasher/endospermous/supercycle",
+    "worthington/moldableness/thrasher/endospermous/systemist",
+    "worthington/moldableness/thrasher/endospermous/unblunted",
+    "worthington/moldableness/thrasher/endospermous/unimbodied"
+  ],
+  "output_file": "worthington_moldableness_thrasher_endospermous_cnossus_output.txt"
+}

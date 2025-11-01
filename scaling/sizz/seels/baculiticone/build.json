@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/bicolorous/aminovaleric",
+    "sizz/endospermous/farrington",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/pelomedusid/vincas/baller",
+    "worthington/sleided/hemiplegic/audrey/aleta",
+    "worthington/sleided/hemiplegic/chickories/preclusion"
+  ],
+  "output_file": "sizz_seels_baculiticone_output.txt"
+}

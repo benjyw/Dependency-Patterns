@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/foredescribe/lysolecithin/nauseant",
+    "biomorphic/keratosropy/unqueened/antennariid",
+    "biomorphic/lateraling/bemire/cotranspire",
+    "biomorphic/loaming/criminating/anaphasic",
+    "biomorphic/moochers/lysolecithin/moochers",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/propagating/reitman/propagating",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/gazella",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/semitransept/endospermous/pariahism",
+    "biomorphic/semitransept/endospermous/provo",
+    "biomorphic/uncamp/bemire/tasimetric"
+  ],
+  "output_file": "biomorphic_dotingness_lysolecithin_dotingness_output.txt"
+}

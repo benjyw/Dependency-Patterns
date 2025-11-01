@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/apagoge/reitman/apagoge",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/imputrid/reitman/imputrid",
+    "bakongo/inconcinnity/vincas/inadequation",
+    "bakongo/synapsed/vincas/tibial",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "emancipator/darkskin/heedy",
+    "emancipator/endospermous/tobaccoless",
+    "emancipator/scalpellic/littler"
+  ],
+  "output_file": "emancipator_lrbm_jigginess_output.txt"
+}

@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/arhauaco/heuretic/transom",
+    "biomorphic/errabund/repossesses/addlins",
+    "biomorphic/nestlike/studs/bondswoman",
+    "biomorphic/outtrumped/desorb/perchromate/nondeducible",
+    "biomorphic/spurrers/glomerella/ostosises",
+    "biomorphic/spurrers/verdins/octoroons",
+    "biomorphic/stonishing/preacquiring/becoiffed",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig"
+  ],
+  "output_file": "biomorphic_outtrumped_desorb_londrina_certie_desorb_output.txt"
+}

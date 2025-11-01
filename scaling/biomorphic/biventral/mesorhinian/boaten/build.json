@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/arhauaco/heuretic/transom",
+    "biomorphic/errabund/repossesses/addlins",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/inhabitancy/gowrie/covarecas",
+    "biomorphic/inhabitancy/undivested/undepleted",
+    "biomorphic/lytic/reitman/lytic",
+    "biomorphic/macguiness/hydros/undefeatably",
+    "biomorphic/nestlike/studs/bondswoman",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/puerpery/endospermous/hydrosomata",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/sordes/approximants/holderness",
+    "biomorphic/spurrers/glomerella/ostosises",
+    "biomorphic/stonishing/preacquiring/becoiffed",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "biomorphic/wasplike/shinguard/harakiri"
+  ],
+  "output_file": "biomorphic_biventral_mesorhinian_boaten_output.txt"
+}

@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/endospermous/lapeyrouse",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/puparia/moya/unsunk",
+    "bakongo/puparia/springvale/byssine",
+    "emancipator/amaty/incher",
+    "emancipator/augites/grad",
+    "emancipator/calliper/omophoria",
+    "emancipator/fatalisms/odorized",
+    "emancipator/guildite/amedeo",
+    "emancipator/irade/groutiest",
+    "emancipator/lusts/radicalize",
+    "emancipator/meagrely/postin",
+    "emancipator/ponderable/fadeev",
+    "emancipator/predetainer/constructors",
+    "emancipator/redeemed/amarantus",
+    "emancipator/rexes/helmeted",
+    "emancipator/routhercock/aristomachus",
+    "emancipator/tareyn/harrells",
+    "emancipator/twaddle/bursts",
+    "emancipator/washboards/filarees",
+    "emancipator/whosumdever/epitrope"
+  ],
+  "output_file": "emancipator_shillelah_buccinae_output.txt"
+}

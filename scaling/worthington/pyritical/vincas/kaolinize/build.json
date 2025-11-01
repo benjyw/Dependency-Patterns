@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/aggressors/bemire/cyanastrum",
+    "worthington/alevins/bemire/apoop",
+    "worthington/beslaved/benedicta/neutralize",
+    "worthington/beslaved/epikia/plastochrone",
+    "worthington/beslaved/torbert/hadendowa",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/callosities/decimated/eclipsises",
+    "worthington/cinenegative/lysolecithin/nonexpanding",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/fulbright/lysolecithin/camuy",
+    "worthington/gastrostege/bemire/metanauplius",
+    "worthington/gastrostege/lysolecithin/cistercian",
+    "worthington/gastrostege/shawfowl/azosulphine",
+    "worthington/hambergite/frustrable/exion",
+    "worthington/ihp/endospermous/elf",
+    "worthington/mutating/pentitol/hokusai",
+    "worthington/pelomedusid/bemire/beslushed",
+    "worthington/pyritical/decimated/enwreath",
+    "worthington/pyritical/lysolecithin/bluffed",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra",
+    "worthington/vocalistic/lysolecithin/axone"
+  ],
+  "output_file": "worthington_pyritical_vincas_kaolinize_output.txt"
+}

@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/afterwit/romipetal/slily",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/gloveman/romipetal/bunt",
+    "biomorphic/ninnyism/romipetal/overfought",
+    "biomorphic/reinstitute/endospermous/draftsman",
+    "biomorphic/reinstitute/splachnaceae/lochiopyra",
+    "biomorphic/rewey/reitman/sturionine",
+    "biomorphic/rewey/vincas/bodiless",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/distention",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/unsacerdotal",
+    "biomorphic/semitransept/endospermous/wearyingly"
+  ],
+  "output_file": "biomorphic_rewey_romipetal_leads_output.txt"
+}

@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "mesatipelvic/endospermous/astrogated",
+    "mesatipelvic/endospermous/bdle",
+    "mesatipelvic/endospermous/bedboard",
+    "mesatipelvic/endospermous/comd",
+    "mesatipelvic/endospermous/dermatome",
+    "mesatipelvic/endospermous/devilfishes",
+    "mesatipelvic/endospermous/endotys",
+    "mesatipelvic/endospermous/galactan",
+    "mesatipelvic/endospermous/isorhodeose",
+    "mesatipelvic/endospermous/lvov",
+    "mesatipelvic/endospermous/mscdex",
+    "mesatipelvic/endospermous/prerogatival",
+    "mesatipelvic/endospermous/rewelding",
+    "mesatipelvic/endospermous/shameful",
+    "mesatipelvic/endospermous/skiey",
+    "mesatipelvic/endospermous/stelliform",
+    "mesatipelvic/endospermous/underscriber",
+    "mesatipelvic/endospermous/wobblers"
+  ],
+  "output_file": "mesatipelvic_endospermous_tithed_output.txt"
+}

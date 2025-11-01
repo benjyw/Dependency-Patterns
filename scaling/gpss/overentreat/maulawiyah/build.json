@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/endospermous/obtruder",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/humourful",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/eximiousness/reitman/eximiousness",
+    "worthington/hovered/synanthetic/hovered",
+    "worthington/ihp/endospermous/elf",
+    "worthington/lissy/lysolecithin/lissy",
+    "worthington/misbecame/reitman/misbecame",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/reassumed/reitman/reassumed",
+    "worthington/smoh/endospermous/multiplicate",
+    "worthington/uneducated/bemire/grinter",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "gpss_overentreat_maulawiyah_output.txt"
+}

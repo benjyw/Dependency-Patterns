@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/did/surprise/whitfinch",
+    "hypostasised/banquettes/thralling",
+    "hypostasised/benchfellow/radiologist",
+    "hypostasised/creamlike/russomania",
+    "hypostasised/drawbar/bagnes",
+    "hypostasised/dylan/weirton",
+    "hypostasised/haec/amygdalitis",
+    "hypostasised/hearsing/hushpuppies",
+    "hypostasised/hormonology/resistantes",
+    "hypostasised/ims/setworks",
+    "hypostasised/ioxus/studys",
+    "hypostasised/limnanth/kreil",
+    "hypostasised/plessimetric/somatocyst"
+  ],
+  "output_file": "hypostasised_numbered_extracosmic_output.txt"
+}

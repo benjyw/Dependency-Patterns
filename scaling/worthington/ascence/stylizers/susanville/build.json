@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/ammocoetid/criminating/whodunnit",
+    "worthington/catalogers/desaturation/pectinatella",
+    "worthington/catalogers/haircuts/bhadon",
+    "worthington/cithern/reitman/cithern",
+    "worthington/defeaters/desaturation/derf",
+    "worthington/defeaters/haircuts/straitens",
+    "worthington/eclats/desaturation/patronizing",
+    "worthington/eclats/haircuts/undershut",
+    "worthington/gnatcatcher/desaturation/uricemia",
+    "worthington/gnatcatcher/haircuts/freudism",
+    "worthington/lituoline/desaturation/mythopoetry",
+    "worthington/lituoline/haircuts/outhunts",
+    "worthington/medicines/desaturation/gdb",
+    "worthington/medicines/haircuts/cavatinas",
+    "worthington/packmaker/desaturation/misclaiming",
+    "worthington/packmaker/haircuts/seromuscular",
+    "worthington/subhymenium/desaturation/deludingly",
+    "worthington/subhymenium/haircuts/skeif",
+    "worthington/tassal/desaturation/unwarnedness",
+    "worthington/tassal/haircuts/goldschmidt"
+  ],
+  "output_file": "worthington_ascence_stylizers_susanville_output.txt"
+}

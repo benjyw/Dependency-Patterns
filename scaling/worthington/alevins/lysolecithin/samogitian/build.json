@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/dygogram/bemire/choteau",
+    "worthington/ihp/endospermous/elf",
+    "worthington/uneducated/bemire/grinter"
+  ],
+  "output_file": "worthington_alevins_lysolecithin_samogitian_output.txt"
+}

@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/avidities/comely/boabdil",
+    "worthington/avidities/pentitol/bourbonnais",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/drupe/comely/unfarced",
+    "worthington/drupe/pentitol/railroadish",
+    "worthington/mashed/comely/refl",
+    "worthington/mashed/pentitol/portlaoise",
+    "worthington/phyllade/comely/dormin",
+    "worthington/phyllade/pentitol/nonstriker",
+    "worthington/therewhilst/comely/inaudibility",
+    "worthington/therewhilst/pentitol/chequerwork",
+    "worthington/uneducated/bemire/grinter",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_mashed_ermanno_sunstone_output.txt"
+}

@@ -1,0 +1,41 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/archizoic/burgers/imu",
+    "bakongo/bjork/triturature/judgments",
+    "bakongo/did/dustpans/unelegant",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/excudate/criminating/intagliation",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/monofilm/bemire/heelcap",
+    "bakongo/monofilm/oxyosphresia/ashpan",
+    "bakongo/monofilm/reitman/ballot",
+    "bakongo/underpitch/reitman/underpitch",
+    "bakongo/unequivalent/endospermous/unworthily",
+    "bakongo/untieing/asidehand/canzones",
+    "bakongo/untieing/exospheric/nonbleeding",
+    "bakongo/untieing/medicaids/ulland",
+    "bakongo/untieing/myocardial/reearns",
+    "bakongo/untieing/patnesses/phylarchic",
+    "bakongo/untieing/stronghand/jowlier"
+  ],
+  "output_file": "bakongo_untieing_echinoderma_charcoalist_output.txt"
+}

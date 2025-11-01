@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/albatros/mesorhinian/mexicans",
+    "bakongo/deadweight/studs/acatallactic",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/enshrouds/shinguard/untriable",
+    "bakongo/enyalius/gowrie/restacked",
+    "bakongo/enyalius/undivested/dawts",
+    "bakongo/exordia/approximants/nickstick",
+    "bakongo/heptene/endospermous/compressible",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/koranist/hydros/approve",
+    "bakongo/listless/heuretic/outspit",
+    "bakongo/monofilm/reitman/ballot",
+    "bakongo/oxalacetate/glomerella/grynaeus",
+    "bakongo/pederero/reitman/pederero",
+    "bakongo/tlaco/preacquiring/faddisms",
+    "bakongo/unsheathes/repossesses/gigs",
+    "bakongo/upglide/endospermous/ultrafeudal"
+  ],
+  "output_file": "bakongo_stylosporous_areopagite_perchromate_umbrellaless_areopagite_output.txt"
+}

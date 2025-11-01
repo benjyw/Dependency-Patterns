@@ -1,0 +1,36 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "mesatipelvic/berseems/jemmily",
+    "mesatipelvic/bouche/appanaging",
+    "mesatipelvic/bouche/appanaging",
+    "mesatipelvic/endospermous/boomiest",
+    "mesatipelvic/endospermous/burrowed",
+    "mesatipelvic/endospermous/candlesticks",
+    "mesatipelvic/endospermous/comd",
+    "mesatipelvic/endospermous/diluvialist",
+    "mesatipelvic/endospermous/enkerchief",
+    "mesatipelvic/endospermous/gesithcund",
+    "mesatipelvic/endospermous/interiorly",
+    "mesatipelvic/endospermous/leachiest",
+    "mesatipelvic/endospermous/nonsexually",
+    "mesatipelvic/endospermous/sherer",
+    "mesatipelvic/lysolecithin/angouleme",
+    "mesatipelvic/lysolecithin/angouleme",
+    "mesatipelvic/quarrelproof/millar"
+  ],
+  "output_file": "mesatipelvic_featheredges_dql_output.txt"
+}

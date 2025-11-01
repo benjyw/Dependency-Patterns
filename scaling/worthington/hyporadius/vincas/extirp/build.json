@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/hyporadius/criminating/forbye",
+    "worthington/ihp/endospermous/elf",
+    "worthington/outgarth/lysolecithin/outgarth",
+    "worthington/packmaker/gnathostomi/motorsailer",
+    "worthington/packmaker/kufiyeh/diol",
+    "worthington/packmaker/lealness/digitron",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_hyporadius_vincas_extirp_output.txt"
+}

@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/differen/sharia",
+    "bakongo/diamantine/ofori/endospermous/amah",
+    "bakongo/diamantine/ofori/forsythe/genepi",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/diffluent/haircuts/leninabad",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/kooks/cgx/raunchy",
+    "bakongo/predisrupt/nubbiest/musicianly",
+    "bakongo/stylosporous/solvents/boardroom/rockvale",
+    "bakongo/stylosporous/solvents/lepsaria/eustache",
+    "bakongo/stylosporous/solvents/owades/oxyopia",
+    "bakongo/stylosporous/solvents/solvolyzed/trumperiness",
+    "bakongo/upglide/endospermous/gulbenkian",
+    "bakongo/upglide/endospermous/kenoticism",
+    "bakongo/upglide/endospermous/ochreish",
+    "bakongo/upglide/endospermous/unflesh",
+    "emancipator/columbarium/geromorphism",
+    "emancipator/endospermous/scyphiform",
+    "emancipator/endospermous/signon",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_jackdaws_oakmoss_output.txt"
+}

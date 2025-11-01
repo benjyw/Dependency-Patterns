@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/gelsemia/reitman/gelsemia",
+    "biomorphic/kerchoo/triturature/kilometer",
+    "biomorphic/olivet/reitman/olivet",
+    "biomorphic/plateauing/reitman/plateauing",
+    "biomorphic/rehash/reitman/rehash",
+    "biomorphic/reinstitute/romipetal/amazilia",
+    "biomorphic/retransplant/reitman/retransplant",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/toxicologic",
+    "biomorphic/semitransept/endospermous/wearyingly",
+    "biomorphic/snoozier/criminating/absenters"
+  ],
+  "output_file": "biomorphic_reinstitute_romipetal_homaging_output.txt"
+}

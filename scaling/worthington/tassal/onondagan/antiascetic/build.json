@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/tassal/centrarchid/cockbird",
+    "worthington/tassal/chimacum/eirenic",
+    "worthington/tassal/criminating/desmotrope",
+    "worthington/tassal/decemvii/saltery",
+    "worthington/tassal/desaturation/unwarnedness",
+    "worthington/tassal/flavian/buccate",
+    "worthington/tassal/flub/hokkaido",
+    "worthington/tassal/garbure/dieu",
+    "worthington/tassal/hereditably/nematogonous",
+    "worthington/tassal/hierro/indulged",
+    "worthington/tassal/posted/cutability",
+    "worthington/tassal/spruiker/incask",
+    "worthington/tassal/strychnos/medians",
+    "worthington/tassal/substantize/uncrowded",
+    "worthington/tassal/trypa/outsailed"
+  ],
+  "output_file": "worthington_tassal_onondagan_antiascetic_output.txt"
+}

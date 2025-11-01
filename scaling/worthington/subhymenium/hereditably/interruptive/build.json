@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/ihp/endospermous/elf",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/subhymenium/criminating/odorless",
+    "worthington/subhymenium/desaturation/deludingly",
+    "worthington/subhymenium/gnathostomi/refurnish",
+    "worthington/subhymenium/kufiyeh/pungling",
+    "worthington/subhymenium/lealness/dedagach",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_subhymenium_hereditably_interruptive_output.txt"
+}

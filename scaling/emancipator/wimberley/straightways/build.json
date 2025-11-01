@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/companionage/emparadise/meatball",
+    "bakongo/companionage/retardates/unassailing",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/monofilm/apocopation/ergotism",
+    "bakongo/prespective/endospermous/propendent",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/stylosporous/paludous/bossiness/baviaantje",
+    "bakongo/stylosporous/paludous/kerrie/misfiled",
+    "bakongo/stylosporous/paludous/kiersten/mojgan",
+    "bakongo/stylosporous/paludous/miscolors/eyewaiter",
+    "bakongo/stylosporous/paludous/nonrecess/thornbill",
+    "bakongo/stylosporous/paludous/underfloor/counselor",
+    "bakongo/stylosporous/paludous/usages/maniere",
+    "bakongo/stylosporous/paludous/wyted/pasteurism",
+    "emancipator/bicolorous/calah",
+    "emancipator/haplessly/botflies"
+  ],
+  "output_file": "emancipator_wimberley_straightways_output.txt"
+}

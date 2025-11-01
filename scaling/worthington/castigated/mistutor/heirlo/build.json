@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/approvably/carilyn/parkway",
+    "worthington/approvably/hga/elytrigerous",
+    "worthington/approvably/hyphae/kodakist",
+    "worthington/approvably/outslang/dibromid",
+    "worthington/approvably/showily/judson",
+    "worthington/approvably/tobi/evictors",
+    "worthington/avidities/comely/boabdil",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/drupe/comely/unfarced",
+    "worthington/escatawpa/reitman/escatawpa",
+    "worthington/ihp/endospermous/automation",
+    "worthington/juristical/retelegraph/lilesville",
+    "worthington/mashed/comely/refl",
+    "worthington/misbecame/reitman/misbecame",
+    "worthington/motherhouse/reitman/motherhouse",
+    "worthington/phyllade/comely/dormin",
+    "worthington/primevity/criminating/harpylike",
+    "worthington/rotherham/reitman/firmer",
+    "worthington/therewhilst/comely/inaudibility",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "worthington_castigated_mistutor_heirlo_output.txt"
+}

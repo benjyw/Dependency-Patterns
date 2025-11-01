@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/endospermous/farrington",
+    "sizz/endospermous/toxophilous",
+    "worthington/arienzo/lysolecithin/arienzo",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/coprolagnist/reitman/coprolagnist",
+    "worthington/cornball/crowl/lithoed",
+    "worthington/cornball/upspurt/fealty",
+    "worthington/cornball/vincas/pterophorid",
+    "worthington/mecodonta/recountless/mecodonta",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/moldableness/thrasher/romipetal/ammonoidean",
+    "worthington/sleided/patrolwomen/synanthetic/concite"
+  ],
+  "output_file": "sizz_polyphonia_kowhai_output.txt"
+}

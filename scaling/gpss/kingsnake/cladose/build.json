@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/endospermous/obtruder",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/covering/endospermous/cockbilled",
+    "worthington/covering/endospermous/slbm",
+    "worthington/covering/endospermous/yaksha",
+    "worthington/easi/bouche/hallowedness",
+    "worthington/mayvins/criminating/priodontes",
+    "worthington/mayvins/hereditably/drippers",
+    "worthington/mithridatic/endospermous/filbert"
+  ],
+  "output_file": "gpss_kingsnake_cladose_output.txt"
+}

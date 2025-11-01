@@ -1,0 +1,41 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/alberton/recountless/alberton",
+    "bakongo/anaphoria/endospermous/leucocrate",
+    "bakongo/companionage/emparadise/meatball",
+    "bakongo/diamantine/ofori/bretelle/gibbosely",
+    "bakongo/diamantine/ofori/burgeoning/gt",
+    "bakongo/diamantine/ofori/crustific/serpigines",
+    "bakongo/diamantine/ofori/hornbooks/hollytree",
+    "bakongo/diamantine/ofori/rebestow/palpebrate",
+    "bakongo/diamantine/ofori/stampede/physophoran",
+    "bakongo/diamantine/ofori/tritomite/sebago",
+    "bakongo/diamantine/ofori/xylosid/nellies",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/heptene/endospermous/compressible",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/upglide/endospermous/noti",
+    "bakongo/upglide/endospermous/sarks",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_latensifying_angionoma_output.txt"
+}

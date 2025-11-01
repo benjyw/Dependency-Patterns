@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/chromometer/lysolecithin/savelha",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/disequalize/titulation/disequalize",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/filaricidal/unqueened/lovel",
+    "biomorphic/galliano/criminating/telarly",
+    "biomorphic/keratosropy/unqueened/antennariid",
+    "biomorphic/lateraling/bemire/cotranspire",
+    "biomorphic/moochers/lysolecithin/moochers",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/opportunism/lysolecithin/opportunism",
+    "biomorphic/refiled/unqueened/nerves",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/spondylic/desaturation/centriscus",
+    "biomorphic/spondylic/gnathostomi/snipish",
+    "biomorphic/spondylic/kufiyeh/undergrowths",
+    "biomorphic/spondylic/lealness/inurements",
+    "biomorphic/uncamp/bemire/tasimetric"
+  ],
+  "output_file": "biomorphic_adventureful_triturature_unamiability_output.txt"
+}

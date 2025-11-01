@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/cashdrawer/approximants/unitariness",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/fairfieldite/mesorhinian/unhabituate",
+    "worthington/hahnville/glomerella/pomato",
+    "worthington/imcnt/reitman/imcnt",
+    "worthington/inexpectant/studs/waterside",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/parryville/heuretic/whirligig",
+    "worthington/plowers/hydros/overzeals",
+    "worthington/rotherham/gowrie/rhatania",
+    "worthington/rotherham/undivested/televox",
+    "worthington/skiis/shinguard/paphos",
+    "worthington/summanus/preacquiring/tegs",
+    "worthington/uneducated/reitman/ruing",
+    "worthington/uveas/repossesses/overabusive"
+  ],
+  "output_file": "worthington_sleided_moraller_perchromate_energids_moraller_output.txt"
+}

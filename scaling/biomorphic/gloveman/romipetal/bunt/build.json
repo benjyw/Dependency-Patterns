@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adventured/dissembly/lateliness",
+    "biomorphic/adventured/equines/scolytus",
+    "biomorphic/adventured/torbert/forestless",
+    "biomorphic/bullbat/reitman/durgy",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/clockcase/reitman/mam",
+    "biomorphic/dixfield/reitman/dixfield",
+    "biomorphic/ephedrine/reitman/pactions",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/gloveman/autoclaves/bergess",
+    "biomorphic/gloveman/decimated/dangs",
+    "biomorphic/gloveman/generosities/thir",
+    "biomorphic/gloveman/mechanism/thilk",
+    "biomorphic/gloveman/rsa/remiform",
+    "biomorphic/gloveman/strikeboard/meacon",
+    "biomorphic/gloveman/vincas/outeyed",
+    "biomorphic/instigatrix/reitman/riggal",
+    "biomorphic/melancholily/unionic/elevenfold",
+    "biomorphic/menispermine/endospermous/rafe",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/distention",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/unsacerdotal",
+    "biomorphic/tropophyte/shawfowl/slums"
+  ],
+  "output_file": "biomorphic_gloveman_romipetal_bunt_output.txt"
+}

@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/defeaters/chimacum/pennyleaf",
+    "worthington/defeaters/criminating/herniotome",
+    "worthington/defeaters/decemvii/seibert",
+    "worthington/defeaters/desaturation/derf",
+    "worthington/defeaters/flub/ekwok",
+    "worthington/defeaters/spruiker/obaza",
+    "worthington/defeaters/strychnos/commoditable",
+    "worthington/defeaters/substantize/inerringly",
+    "worthington/defeaters/trypa/datapoint"
+  ],
+  "output_file": "worthington_defeaters_redondilla_actutate_output.txt"
+}

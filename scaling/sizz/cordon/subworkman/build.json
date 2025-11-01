@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/endospermous/farrington",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/marshflower/autocamping/cloverley",
+    "worthington/marshflower/cephalopodic/friant",
+    "worthington/marshflower/outflash/gelatins",
+    "worthington/pastile/criminating/soredioid",
+    "worthington/pastile/haircuts/thomsen",
+    "worthington/sleided/anglicanisms/kharif/engirdling",
+    "worthington/sleided/anglicanisms/unreformable/dreher"
+  ],
+  "output_file": "sizz_cordon_subworkman_output.txt"
+}

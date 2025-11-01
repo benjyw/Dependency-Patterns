@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/apagoge/reitman/apagoge",
+    "bakongo/did/dustpans/unelegant",
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/gripmen/objurgating/abdicates",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/synapsed/vincas/tibial",
+    "bakongo/unequivalent/endospermous/unworthily",
+    "bakongo/upglide/endospermous/mercuriate",
+    "bakongo/upglide/endospermous/ultrafeudal"
+  ],
+  "output_file": "bakongo_gripmen_ronsardian_bemuddling_output.txt"
+}

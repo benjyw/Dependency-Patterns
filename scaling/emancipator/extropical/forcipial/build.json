@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/jacobitely/reitman/jacobitely",
+    "bakongo/monofilm/oxyosphresia/ashpan",
+    "bakongo/paniquita/lysolecithin/paniquita",
+    "bakongo/spiritlike/bemire/deceases",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/bounces",
+    "bakongo/upglide/endospermous/libau",
+    "bakongo/upglide/endospermous/muncerian",
+    "bakongo/upglide/endospermous/physoclisti",
+    "bakongo/upglide/endospermous/ultrafeudal"
+  ],
+  "output_file": "emancipator_extropical_forcipial_output.txt"
+}

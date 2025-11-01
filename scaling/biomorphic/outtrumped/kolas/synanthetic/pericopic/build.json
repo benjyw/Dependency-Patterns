@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/arrobas/burgers/depravingly",
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/ayutthaya/reitman/ayutthaya",
+    "biomorphic/capitalizer/burgers/innovator",
+    "biomorphic/coregence/launce/coregence",
+    "biomorphic/cottontails/reitman/cottontails",
+    "biomorphic/esau/endospermous/scrupular",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/kerchoo/triturature/kilometer",
+    "biomorphic/olivet/reitman/olivet",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/rehash/reitman/rehash",
+    "biomorphic/snoozier/criminating/absenters",
+    "biomorphic/untellable/dustpans/anthoxanthum",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig"
+  ],
+  "output_file": "biomorphic_outtrumped_kolas_synanthetic_pericopic_kolas_output.txt"
+}

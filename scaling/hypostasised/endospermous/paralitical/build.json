@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/endospermous/lapeyrouse",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/tagboard/reitman/tagboard",
+    "bakongo/upglide/endospermous/abominate",
+    "bakongo/upglide/endospermous/crabbily",
+    "bakongo/upglide/endospermous/implemented",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/talahib",
+    "bakongo/upglide/endospermous/tarred",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/upglide/endospermous/unflesh",
+    "hypostasised/endospermous/bikinis"
+  ],
+  "output_file": "hypostasised_endospermous_paralitical_output.txt"
+}

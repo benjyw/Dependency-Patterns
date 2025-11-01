@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/covering/endospermous/exchequer",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/cross/hydros/inducers",
+    "worthington/ihp/endospermous/elf",
+    "worthington/mangabey/criminating/necessarius",
+    "worthington/mangabey/vincas/vastness",
+    "worthington/mecodonta/recountless/mecodonta",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/faizabad",
+    "worthington/paralytica/dyaus/bursaries",
+    "worthington/piazzi/burgers/idioretinal",
+    "worthington/rubbingstone/bouche/outjazz",
+    "worthington/skeltonical/epaulette/reset",
+    "worthington/sweetiewife/emparadise/dimaggio",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "worthington_coportion_befilth_navajos_slackness_befilth_output.txt"
+}

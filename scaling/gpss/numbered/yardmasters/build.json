@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/banquettes/pinnaclet",
+    "gpss/benchfellow/rhenic",
+    "gpss/creamlike/livesay",
+    "gpss/drawbar/maunders",
+    "gpss/dylan/flameproofer",
+    "gpss/haec/igniferous",
+    "gpss/hearsing/passemezzo",
+    "gpss/hormonology/maser",
+    "gpss/ims/cirrosely",
+    "gpss/ioxus/oncogenic",
+    "gpss/limnanth/lacertoid",
+    "gpss/plessimetric/rakeful",
+    "worthington/backpacked/surprise/torsibility"
+  ],
+  "output_file": "gpss_numbered_yardmasters_output.txt"
+}

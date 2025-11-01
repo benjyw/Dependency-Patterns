@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/downgrowth/shinguard/unfooled",
+    "biomorphic/downgrowth/vincas/broonzy",
+    "biomorphic/luminousness/reitman/luminousness",
+    "biomorphic/magnetons/megalonyx/magnetons",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/unexigible/routhercock/oncoses",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/glimes"
+  ],
+  "output_file": "nonsovereign_threated_glossist_output.txt"
+}

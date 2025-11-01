@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/asbestic/endospermous/asbestic",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/beholders/bouche/neocubist",
+    "worthington/covering/endospermous/adamical",
+    "worthington/covering/endospermous/brockages",
+    "worthington/covering/endospermous/chaperonages",
+    "worthington/covering/endospermous/maid",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/covering/endospermous/spr",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/covering/endospermous/twaddy",
+    "worthington/covering/endospermous/waxings",
+    "worthington/heldentenors/lysolecithin/bri",
+    "worthington/kenai/reitman/kenai",
+    "worthington/rubbingstone/bouche/outjazz",
+    "worthington/tensure/reitman/tensure",
+    "worthington/troubled/reitman/troubled",
+    "worthington/uneducated/reitman/ruing",
+    "worthington/verner/criminating/bastinadoing",
+    "worthington/verner/vincas/waiguli"
+  ],
+  "output_file": "worthington_moldableness_thrasher_loadpenny_carbureter_output.txt"
+}

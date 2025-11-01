@@ -1,0 +1,36 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/bobwood/melvie",
+    "sizz/darkskin/nonbroody",
+    "sizz/endospermous/farrington",
+    "sizz/gibbals/globuliform",
+    "sizz/venatorial/stationed",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/covering/endospermous/slbm",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/mecodonta/recountless/mecodonta",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/faizabad",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/sweetiewife/emparadise/dimaggio"
+  ],
+  "output_file": "sizz_endospermous_palmiferous_output.txt"
+}

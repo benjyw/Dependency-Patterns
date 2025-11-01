@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/cracking/routhercock/kitabi",
+    "biomorphic/guessers/shinguard/caryville",
+    "biomorphic/outtrumped/camiknickers/implausible/jawcrusher",
+    "biomorphic/reinstitute/endospermous/acacian",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/reinstitute/endospermous/nonbleach",
+    "biomorphic/reinstitute/endospermous/reemphasized",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/semitransept/endospermous/thegn",
+    "biomorphic/subvene/chugalugged/toxicant",
+    "biomorphic/subvene/routhercock/mowana",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/endospermous/squareman",
+    "nonsovereign/knapscap/mycotoxic",
+    "nonsovereign/threated/extrabuccal"
+  ],
+  "output_file": "nonsovereign_seels_fricandeaux_output.txt"
+}

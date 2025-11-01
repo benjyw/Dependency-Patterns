@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/catalogers/chimacum/waldglas",
+    "worthington/catalogers/criminating/howenstein",
+    "worthington/catalogers/decemvii/occitone",
+    "worthington/catalogers/desaturation/pectinatella",
+    "worthington/catalogers/flavian/rhymery",
+    "worthington/catalogers/flub/syrus",
+    "worthington/catalogers/hereditably/genips",
+    "worthington/catalogers/redondilla/fiftieths",
+    "worthington/catalogers/spruiker/eloigned",
+    "worthington/catalogers/strychnos/wolver",
+    "worthington/catalogers/subcuneus/airily",
+    "worthington/catalogers/substantize/catamenia",
+    "worthington/catalogers/trypa/cytotrophy"
+  ],
+  "output_file": "worthington_catalogers_fumulus_spadebone_output.txt"
+}

@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/outtrumped/stamina/atmometer/photodynamic",
+    "biomorphic/outtrumped/stamina/bantoid/perorated",
+    "biomorphic/outtrumped/stamina/broadcasted/notharctid",
+    "biomorphic/outtrumped/stamina/fairoaks/aou",
+    "biomorphic/outtrumped/stamina/jerome/assuages",
+    "biomorphic/outtrumped/stamina/lineolated/krautweed",
+    "biomorphic/outtrumped/stamina/nake/abortions",
+    "biomorphic/outtrumped/stamina/phalangidea/greediest",
+    "biomorphic/outtrumped/stamina/poschay/peterlee",
+    "biomorphic/outtrumped/stamina/rovers/stromb",
+    "biomorphic/outtrumped/stamina/scutulum/arthrodial",
+    "biomorphic/outtrumped/stamina/sempervivum/lavern",
+    "biomorphic/outtrumped/stamina/sneaked/lantz",
+    "biomorphic/outtrumped/stamina/vaguenesses/stupration",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig"
+  ],
+  "output_file": "biomorphic_outtrumped_stamina_bush_regiven_output.txt"
+}

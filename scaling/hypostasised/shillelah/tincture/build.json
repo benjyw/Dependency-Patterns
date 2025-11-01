@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/puparia/moya/unsunk",
+    "bakongo/puparia/springvale/byssine",
+    "hypostasised/amaty/vars",
+    "hypostasised/augites/unvenerated",
+    "hypostasised/calliper/contraoctave",
+    "hypostasised/fatalisms/chiromegaly",
+    "hypostasised/guildite/allende",
+    "hypostasised/irade/jedediah",
+    "hypostasised/lusts/gambrels",
+    "hypostasised/meagrely/kilom",
+    "hypostasised/ponderable/gangland",
+    "hypostasised/predetainer/canyonside",
+    "hypostasised/redeemed/marcel",
+    "hypostasised/rexes/nocten",
+    "hypostasised/routhercock/alloted",
+    "hypostasised/stovepipes/headachiest",
+    "hypostasised/tareyn/daimonology",
+    "hypostasised/twaddle/jacutinga",
+    "hypostasised/washboards/landladies",
+    "hypostasised/whosumdever/unmicrobic"
+  ],
+  "output_file": "hypostasised_shillelah_tincture_output.txt"
+}

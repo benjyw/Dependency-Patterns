@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/exodontics/criminating/meat",
+    "bakongo/exodontics/hereditably/coolness",
+    "bakongo/gastrelcosis/berseems/subclerk",
+    "bakongo/manipulating/lysolecithin/reimplanted",
+    "bakongo/manipulating/lysolecithin/reimplanted",
+    "bakongo/monofilm/reitman/ballot",
+    "bakongo/nicotins/reitman/nicotins",
+    "bakongo/tagboard/reitman/tagboard",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/phantomship"
+  ],
+  "output_file": "bakongo_diamantine_ofori_franciscans_alkalemia_output.txt"
+}

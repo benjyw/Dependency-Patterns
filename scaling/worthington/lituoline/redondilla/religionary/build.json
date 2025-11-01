@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/lituoline/chimacum/kaczer",
+    "worthington/lituoline/criminating/akaroa",
+    "worthington/lituoline/decemvii/concorde",
+    "worthington/lituoline/desaturation/mythopoetry",
+    "worthington/lituoline/flub/gilravager",
+    "worthington/lituoline/spruiker/macaco",
+    "worthington/lituoline/strychnos/incitement",
+    "worthington/lituoline/substantize/nonactivity",
+    "worthington/lituoline/trypa/tulkepaia"
+  ],
+  "output_file": "worthington_lituoline_redondilla_religionary_output.txt"
+}

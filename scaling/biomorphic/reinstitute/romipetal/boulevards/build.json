@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/afterwit/romipetal/slily",
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/ayutthaya/reitman/ayutthaya",
+    "biomorphic/dixfield/reitman/dixfield",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/gloveman/romipetal/bunt",
+    "biomorphic/latifundio/vincas/multurer",
+    "biomorphic/maduro/reitman/agraphic",
+    "biomorphic/ninnyism/romipetal/overfought",
+    "biomorphic/rewey/reitman/sturionine",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/oncer"
+  ],
+  "output_file": "biomorphic_reinstitute_romipetal_boulevards_output.txt"
+}

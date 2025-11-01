@@ -1,0 +1,41 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/endospermous/farrington",
+    "sizz/gibbals/globuliform",
+    "sizz/incipiency/klabund",
+    "sizz/niland/wantonlike",
+    "sizz/quietnesses/botanizes",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/debtors/regioned/aips",
+    "worthington/rotherham/disenact/osteogenesis",
+    "worthington/rotherham/gowrie/rhatania",
+    "worthington/rotherham/outshooting/hookwise",
+    "worthington/rotherham/redlining/junkdealer",
+    "worthington/rotherham/reitman/firmer",
+    "worthington/rotherham/stereognosis/cryptopapist",
+    "worthington/rotherham/undivested/televox",
+    "worthington/rotherham/whalen/poulp",
+    "worthington/sleided/urartaean/chromogram/dissimulator",
+    "worthington/sleided/urartaean/nongrieved/secunderabad"
+  ],
+  "output_file": "sizz_banquettes_stalworth_output.txt"
+}

@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/earner/vetchy",
+    "gpss/endospermous/obtruder",
+    "gpss/endospermous/trinities",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/cacesthesis/lysolecithin/cacesthesis",
+    "worthington/cacesthesis/nontheologic/campaniform",
+    "worthington/covering/endospermous/ety",
+    "worthington/covering/endospermous/grimme",
+    "worthington/covering/endospermous/maid",
+    "worthington/covering/endospermous/rabulistic",
+    "worthington/covering/endospermous/slbm",
+    "worthington/covering/endospermous/uteropexia",
+    "worthington/desiring/reitman/desiring",
+    "worthington/moldableness/thrasher/endospermous/anilino",
+    "worthington/moldableness/thrasher/endospermous/cruciality",
+    "worthington/twistily/agronomial/hesperidium",
+    "worthington/twistily/curiosa/bewitchery",
+    "worthington/twistily/heliconist/ejidal"
+  ],
+  "output_file": "gpss_earthsets_homotropous_output.txt"
+}

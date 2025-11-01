@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adrastus/dougl/extrusive",
+    "biomorphic/astur/semispan/substrative",
+    "biomorphic/czechs/motorbuses/czechs",
+    "biomorphic/esau/endospermous/styler",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/fiddlehead/regioned/crabbedly",
+    "biomorphic/khos/ehlite/bullions",
+    "biomorphic/outtrumped/antibusiness/progenitors/unforgone",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/untellable/dustpans/anthoxanthum",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/chinkiest/promoral",
+    "nonsovereign/darkskin/reboundant",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/gershon/stuartia",
+    "nonsovereign/gibbals/keifer",
+    "nonsovereign/sarsnet/oversubtly"
+  ],
+  "output_file": "nonsovereign_unbridles_slitshell_output.txt"
+}

@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/archizoic/burgers/imu",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/excretolic/burgers/faison",
+    "bakongo/gutow/lysolecithin/thegndom",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/inchase/criminating/britte",
+    "bakongo/incumbrances/reitman/incumbrances",
+    "bakongo/labials/reitman/labials",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/sapphera/lysolecithin/smiler",
+    "bakongo/sensuosity/lysolecithin/terminal"
+  ],
+  "output_file": "emancipator_birome_maha_output.txt"
+}

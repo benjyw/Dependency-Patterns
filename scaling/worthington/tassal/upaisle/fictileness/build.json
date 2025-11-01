@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/ihp/endospermous/elf",
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/tassal/brainteaser/aunt",
+    "worthington/tassal/criminating/desmotrope",
+    "worthington/tassal/desaturation/unwarnedness",
+    "worthington/tassal/flavian/buccate",
+    "worthington/tassal/flub/hokkaido",
+    "worthington/tassal/fumulus/consoling",
+    "worthington/tassal/gnathostomi/madden",
+    "worthington/tassal/hereditably/nematogonous",
+    "worthington/tassal/hierro/indulged",
+    "worthington/tassal/kufiyeh/saccharum",
+    "worthington/tassal/lealness/appositional",
+    "worthington/tassal/redondilla/krti",
+    "worthington/tassal/spruiker/incask",
+    "worthington/tassal/strychnos/medians",
+    "worthington/tassal/subcuneus/janizaries",
+    "worthington/tassal/wots/testaments",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_tassal_upaisle_fictileness_output.txt"
+}

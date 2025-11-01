@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/fiddlehead/extacie/hoyles",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/reinstitute/endospermous/draftsman",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/reinstitute/endospermous/reemphasized",
+    "biomorphic/reinstitute/romipetal/amazilia",
+    "biomorphic/semitransept/endospermous/cassadaga",
+    "biomorphic/semitransept/endospermous/ekename",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/endospermous/outguides",
+    "nonsovereign/endospermous/snicking",
+    "nonsovereign/endospermous/squareman"
+  ],
+  "output_file": "nonsovereign_endospermous_banderol_output.txt"
+}

@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/endospermous/antepretonic",
+    "bakongo/diamantine/ofori/endospermous/bania",
+    "bakongo/diamantine/ofori/endospermous/cardiform",
+    "bakongo/diamantine/ofori/endospermous/ceraunoscopy",
+    "bakongo/diamantine/ofori/endospermous/kakariki",
+    "bakongo/diamantine/ofori/endospermous/maraschinos",
+    "bakongo/diamantine/ofori/endospermous/perorational",
+    "bakongo/diamantine/ofori/endospermous/schema",
+    "bakongo/diamantine/ofori/endospermous/shrewdnesses",
+    "bakongo/diamantine/ofori/endospermous/swounded",
+    "bakongo/diamantine/ofori/endospermous/talipedic",
+    "bakongo/diamantine/ofori/endospermous/telegraf",
+    "bakongo/diamantine/ofori/endospermous/tussurs",
+    "bakongo/diamantine/ofori/endospermous/typify",
+    "bakongo/diamantine/ofori/endospermous/unlodged",
+    "bakongo/diamantine/ofori/endospermous/unwoefulness",
+    "bakongo/technicality/reitman/enervates",
+    "bakongo/upglide/endospermous/mercuriate",
+    "bakongo/upglide/endospermous/ultrafeudal"
+  ],
+  "output_file": "bakongo_diamantine_ofori_endospermous_overfit_output.txt"
+}

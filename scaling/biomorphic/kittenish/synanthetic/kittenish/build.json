@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/assiette/lysolecithin/assiette",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/kittenish/hydros/affiliate",
+    "biomorphic/lateraling/bemire/cotranspire",
+    "biomorphic/maduro/unqueened/nephology",
+    "biomorphic/malacobdella/lysolecithin/popeism",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/paracelsic/reitman/paracelsic",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/rewey/unqueened/retinacula",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/semitransept/endospermous/plumdamis",
+    "biomorphic/semitransept/endospermous/provo",
+    "biomorphic/tropisms/bouche/vivle",
+    "biomorphic/untellable/dustpans/anthoxanthum",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig"
+  ],
+  "output_file": "biomorphic_kittenish_synanthetic_kittenish_output.txt"
+}

@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/acuerdo/prickiest/scabrousness",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/outtrumped/operatively/synanthetic/baryte",
+    "biomorphic/prosaists/routhercock/corkmaking",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/reinstitute/endospermous/agathist",
+    "biomorphic/reinstitute/endospermous/ailantine",
+    "biomorphic/reinstitute/endospermous/boilover",
+    "biomorphic/reinstitute/endospermous/draftsman",
+    "biomorphic/reinstitute/endospermous/glynis",
+    "biomorphic/reinstitute/endospermous/nonbleach",
+    "biomorphic/reinstitute/endospermous/reemphasized",
+    "biomorphic/reinstitute/endospermous/vitaminizing",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/unloveliest/endospermous/tempera",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/arnaeus/guidage",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/endospermous/snicking",
+    "nonsovereign/endospermous/squareman"
+  ],
+  "output_file": "nonsovereign_ampasimenite_commoigne_output.txt"
+}

@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/anagyris/reitman/anagyris",
+    "bakongo/diamantine/ofori/disembark/schurz",
+    "bakongo/diamantine/ofori/romipetal/acidific",
+    "bakongo/incumbrances/reitman/incumbrances",
+    "bakongo/labials/reitman/labials",
+    "bakongo/monofilm/reitman/ballot",
+    "bakongo/overbend/blustery/tetragonally",
+    "bakongo/overbend/sparrowbill/noncompos",
+    "bakongo/rollet/reitman/rollet",
+    "bakongo/sarraute/megalonyx/sarraute",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/zeugite/criminating/anisotrope",
+    "bakongo/zeugite/vincas/caviler"
+  ],
+  "output_file": "bakongo_diamantine_ofori_bifara_peristome_output.txt"
+}

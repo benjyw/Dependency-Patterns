@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/differen/sharia",
+    "bakongo/diamantine/ofori/endospermous/amah",
+    "bakongo/diamantine/ofori/endospermous/deutschland",
+    "bakongo/diamantine/ofori/endospermous/jocuma",
+    "bakongo/diamantine/ofori/endospermous/swag",
+    "bakongo/diamantine/ofori/forsythe/genepi",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/upglide/endospermous/gulbenkian",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/karyoplasmic",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/tarred",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_uncerated_damodar_output.txt"
+}

@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/banquettes/interrogee",
+    "nonsovereign/benchfellow/manta",
+    "nonsovereign/creamlike/vousty",
+    "nonsovereign/drawbar/postcostal",
+    "nonsovereign/dylan/iveson",
+    "nonsovereign/haec/mochras",
+    "nonsovereign/hearsing/sarkical",
+    "nonsovereign/hormonology/fatigation",
+    "nonsovereign/ims/subocean",
+    "nonsovereign/ioxus/leafleteer",
+    "nonsovereign/limnanth/renewably",
+    "nonsovereign/plessimetric/valves"
+  ],
+  "output_file": "nonsovereign_numbered_grafts_output.txt"
+}

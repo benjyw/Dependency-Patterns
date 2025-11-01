@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/enophthalmos/criminating/slingers",
+    "bakongo/preincluded/lysolecithin/preincluded",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/uprooters/lysolecithin/uprooters"
+  ],
+  "output_file": "bakongo_enophthalmos_hereditably_bowmanstown_output.txt"
+}

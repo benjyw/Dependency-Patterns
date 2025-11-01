@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/outtrumped/exoclinal/unflexed/deflorations",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/pythonomorph/criminating/viola",
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/semitransept/endospermous/preclival",
+    "biomorphic/semitransept/endospermous/selvas",
+    "biomorphic/semitransept/endospermous/sublimed",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/kingsnake/allogamous"
+  ],
+  "output_file": "nonsovereign_thegether_coachman_output.txt"
+}

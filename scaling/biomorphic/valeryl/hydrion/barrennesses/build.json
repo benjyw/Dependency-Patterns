@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/reinstitute/endospermous/andrarchy",
+    "biomorphic/spondylic/bogtrotter/gcvo",
+    "biomorphic/spondylic/chimacum/yirmilik",
+    "biomorphic/spondylic/haircuts/far",
+    "biomorphic/spondylic/onondagan/earthward",
+    "biomorphic/spondylic/spruiker/wraith",
+    "biomorphic/spondylic/strychnos/alumnus",
+    "biomorphic/spondylic/subcuneus/paratonic",
+    "biomorphic/spondylic/substantize/gryllotalpa",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/valeryl/criminating/hectometer",
+    "biomorphic/valeryl/vincas/personalism"
+  ],
+  "output_file": "biomorphic_valeryl_hydrion_barrennesses_output.txt"
+}

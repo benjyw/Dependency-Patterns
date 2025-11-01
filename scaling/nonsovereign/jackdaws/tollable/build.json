@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/enterozoa/nubbiest/kilimanjaro",
+    "biomorphic/outtrumped/billowing/boardroom/victoriana",
+    "biomorphic/outtrumped/billowing/lepsaria/acclinate",
+    "biomorphic/outtrumped/billowing/owades/appendixed",
+    "biomorphic/outtrumped/billowing/solvolyzed/neglectedly",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/rectocolitic/haircuts/tunesmith",
+    "biomorphic/reinstitute/differen/wrannock",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/reinstitute/forsythe/besmutting",
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/semitransept/endospermous/herreid",
+    "biomorphic/semitransept/endospermous/pining",
+    "biomorphic/semitransept/endospermous/sublimed",
+    "biomorphic/tailorwise/cgx/hotdog",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/columbarium/septiferous",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/endospermous/snicking",
+    "nonsovereign/endospermous/squareman"
+  ],
+  "output_file": "nonsovereign_jackdaws_tollable_output.txt"
+}

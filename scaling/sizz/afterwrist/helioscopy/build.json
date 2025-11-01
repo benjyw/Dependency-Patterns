@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/darkskin/nonbroody",
+    "sizz/endospermous/farrington",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/covering/endospermous/hymner",
+    "worthington/covering/endospermous/slbm",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/ihp/endospermous/automation",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/slaveless/reitman/slaveless",
+    "worthington/sleided/acrology/matcher/eurytopicity",
+    "worthington/sleided/acrology/qung/indusiate",
+    "worthington/sleided/acrology/trenchlike/backblocks",
+    "worthington/smoh/endospermous/sharpens",
+    "worthington/uneducated/criminating/vallary",
+    "worthington/uneducated/gildford/thumps",
+    "worthington/uneducated/reitman/ruing",
+    "worthington/uneducated/sow/melanion",
+    "worthington/uneducated/unspiteful/volkslied"
+  ],
+  "output_file": "sizz_afterwrist_helioscopy_output.txt"
+}

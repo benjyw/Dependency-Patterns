@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/anoxias/vincas/shirtmen",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/covering/endospermous/waxings",
+    "worthington/kenai/reitman/kenai",
+    "worthington/monoid/reitman/monoid",
+    "worthington/pelomedusid/reitman/yearling",
+    "worthington/unbraceleted/reitman/unbraceleted",
+    "worthington/uneducated/reitman/ruing",
+    "worthington/viomycins/romipetal/semifixed"
+  ],
+  "output_file": "worthington_moldableness_thrasher_romipetal_cyanformic_output.txt"
+}

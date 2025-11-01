@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/cattleship/acousma",
+    "nonsovereign/charioting/oar",
+    "nonsovereign/dulcifies/binomial",
+    "nonsovereign/dulcifies/binomial",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/endospermous/pees",
+    "nonsovereign/endospermous/probe",
+    "nonsovereign/gibbals/keifer",
+    "nonsovereign/koorajong/calthrops",
+    "nonsovereign/venatorial/windbracing"
+  ],
+  "output_file": "nonsovereign_endospermous_salmanazar_output.txt"
+}

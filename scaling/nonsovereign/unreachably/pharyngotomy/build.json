@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/esau/endospermous/tormented",
+    "biomorphic/outtrumped/breadbaskets/synanthetic/lobefin",
+    "biomorphic/outtrumped/breadbaskets/synanthetic/lobefin",
+    "biomorphic/outtrumped/breadbaskets/synanthetic/lobefin",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/sneezers",
+    "biomorphic/tropophyte/blithen/mab",
+    "biomorphic/tropophyte/curtainwise/longobardi",
+    "biomorphic/tropophyte/sulpholeic/activin",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/bandore/thecitis",
+    "nonsovereign/endospermous/cloisonless",
+    "nonsovereign/endospermous/glimes",
+    "nonsovereign/endospermous/payments",
+    "nonsovereign/endospermous/subdouble",
+    "nonsovereign/sabadine/redoom"
+  ],
+  "output_file": "nonsovereign_unreachably_pharyngotomy_output.txt"
+}

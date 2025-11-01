@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/lytic/reitman/lytic",
+    "biomorphic/marbut/communities/impacable",
+    "biomorphic/marbut/logician/contemnible",
+    "biomorphic/marbut/vapulatory/orioles",
+    "biomorphic/reinstitute/endospermous/acacian",
+    "biomorphic/reinstitute/endospermous/draftsman",
+    "biomorphic/reinstitute/endospermous/reemphasized",
+    "biomorphic/reinstitute/endospermous/vitaminizing",
+    "biomorphic/reinstitute/terahertz/emulous",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/copremias/asphyxies"
+  ],
+  "output_file": "nonsovereign_seels_nonmoderate_output.txt"
+}

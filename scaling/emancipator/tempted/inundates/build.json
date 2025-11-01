@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/susana/augie",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/gride/routhercock/copeia",
+    "bakongo/heptene/endospermous/dyable",
+    "bakongo/lian/hereditably/tridentine",
+    "bakongo/sagest/synanthetic/sagest",
+    "bakongo/sidestepper/bouche/overexposed",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/tarred",
+    "emancipator/endospermous/scyphiform"
+  ],
+  "output_file": "emancipator_tempted_inundates_output.txt"
+}

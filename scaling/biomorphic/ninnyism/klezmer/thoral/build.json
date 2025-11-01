@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adventured/dissembly/lateliness",
+    "biomorphic/adventured/equines/scolytus",
+    "biomorphic/adventured/irq/nucament",
+    "biomorphic/adventured/protometal/biscot",
+    "biomorphic/adventured/retells/pemolines",
+    "biomorphic/adventured/rufulous/aminic",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/clockcase/lysolecithin/actuaryship",
+    "biomorphic/ephedrine/lysolecithin/verselet",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/halecomorphi/eveleen/dominies",
+    "biomorphic/instigatrix/lysolecithin/dupaix",
+    "biomorphic/keratosropy/unqueened/antennariid",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/ninnyism/bemire/histrionical",
+    "biomorphic/ninnyism/decimated/inclipped",
+    "biomorphic/ninnyism/gravigrade/supers",
+    "biomorphic/refiled/unqueened/nerves",
+    "biomorphic/scaphopod/biaswise/phaeacian",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/tropophyte/bemire/dichronous",
+    "biomorphic/tropophyte/mutuality/chidden",
+    "biomorphic/tropophyte/shawfowl/slums"
+  ],
+  "output_file": "biomorphic_ninnyism_klezmer_thoral_output.txt"
+}

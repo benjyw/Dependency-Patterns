@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/covering/endospermous/bemoisten",
+    "worthington/covering/endospermous/ganapati",
+    "worthington/covering/endospermous/pensileness",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/jujutsu/ermanno/blockages",
+    "worthington/jujutsu/reitman/dtg",
+    "worthington/tensure/reitman/tensure",
+    "worthington/uncut/endospermous/naivenesses",
+    "worthington/uneducated/bouche/seanor",
+    "worthington/uneducated/oxyosphresia/rosttra",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "worthington_moldableness_thrasher_romipetal_tenails_output.txt"
+}

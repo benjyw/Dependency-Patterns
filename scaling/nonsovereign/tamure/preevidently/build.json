@@ -1,0 +1,29 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/abcissa/criminating/forseti",
+    "biomorphic/outtrumped/unstayedness/ddcu/baldberry",
+    "biomorphic/reinstitute/endospermous/ailantine",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/reinstitute/romipetal/amazilia",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/squareman",
+    "nonsovereign/pinnotherian/procris",
+    "nonsovereign/podical/boyards",
+    "nonsovereign/steamerless/hooklet"
+  ],
+  "output_file": "nonsovereign_tamure_preevidently_output.txt"
+}

@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/romipetal/acidific",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/monofilm/oxyosphresia/ashpan",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/bounces",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/libau",
+    "bakongo/upglide/endospermous/muncerian",
+    "bakongo/upglide/endospermous/physoclisti",
+    "bakongo/upglide/endospermous/tarred",
+    "bakongo/waywode/unqueened/verbifies",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_klipdachs_snagged_output.txt"
+}

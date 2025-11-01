@@ -1,0 +1,41 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "leggiest/autoclaves/preachy",
+    "leggiest/decimated/heathsville",
+    "leggiest/dissembly/beballed",
+    "leggiest/endospermous/amagasaki",
+    "leggiest/endospermous/infectress",
+    "leggiest/endospermous/jillions",
+    "leggiest/endospermous/manfish",
+    "leggiest/endospermous/unbullying",
+    "leggiest/equines/chirimia",
+    "leggiest/generosities/alburnums",
+    "leggiest/mechanism/biti",
+    "leggiest/pirtleville/fibrose",
+    "leggiest/reitman/airiness",
+    "leggiest/reitman/airiness",
+    "leggiest/reitman/airiness",
+    "leggiest/reitman/airiness",
+    "leggiest/rsa/apologal",
+    "leggiest/shawfowl/driveling",
+    "leggiest/strikeboard/fortressing",
+    "leggiest/torbert/leann",
+    "leggiest/unionic/palmersville",
+    "leggiest/vincas/acetify"
+  ],
+  "output_file": "leggiest_romipetal_admaxillary_output.txt"
+}

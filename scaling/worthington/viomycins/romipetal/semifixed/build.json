@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/alevins/criminating/bucconinae",
+    "worthington/beslaved/benedicta/neutralize",
+    "worthington/beslaved/epikia/plastochrone",
+    "worthington/beslaved/torbert/hadendowa",
+    "worthington/cinenegative/reitman/unalloyed",
+    "worthington/covering/endospermous/brockages",
+    "worthington/covering/endospermous/ganapati",
+    "worthington/covering/endospermous/goode",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/fulbright/reitman/ahem",
+    "worthington/unbraceleted/reitman/unbraceleted",
+    "worthington/uneducated/reitman/ruing",
+    "worthington/viomycins/reitman/stippled",
+    "worthington/viomycins/vincas/kuhnau",
+    "worthington/vocalistic/reitman/margarete"
+  ],
+  "output_file": "worthington_viomycins_romipetal_semifixed_output.txt"
+}

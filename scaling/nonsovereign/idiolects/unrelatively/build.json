@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/ananna/reitman/ananna",
+    "biomorphic/cebian/qaid/prizefights",
+    "biomorphic/outtrumped/mennom/synanthetic/crossbarred",
+    "biomorphic/outtrumped/stamina/nutricism/untotaled",
+    "biomorphic/outtrumped/stamina/vulcanising/parrotfish",
+    "biomorphic/outtrumped/wrest/synanthetic/salicylous",
+    "biomorphic/reinstitute/endospermous/acacian",
+    "biomorphic/reinstitute/endospermous/draftsman",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/reinstitute/endospermous/reemphasized",
+    "biomorphic/reinstitute/endospermous/vitaminizing",
+    "biomorphic/semitransept/endospermous/biles",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/glimes"
+  ],
+  "output_file": "nonsovereign_idiolects_unrelatively_output.txt"
+}

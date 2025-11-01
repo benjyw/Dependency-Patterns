@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/beltine/criminating/fainted",
+    "biomorphic/beltine/vincas/tileyard",
+    "biomorphic/disoccluded/bemire/ytterbite",
+    "biomorphic/entheal/lysolecithin/entheal",
+    "biomorphic/fanchie/recountless/fanchie",
+    "biomorphic/kewaskum/lysolecithin/kewaskum",
+    "biomorphic/moochers/lysolecithin/moochers",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/overdrafts/lysolecithin/overdrafts",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/puerpery/endospermous/scandalizer",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/runtier/emparadise/inwardly",
+    "biomorphic/semitransept/endospermous/cedric",
+    "biomorphic/semitransept/endospermous/plumdamis",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/endospermous/glimes"
+  ],
+  "output_file": "nonsovereign_zaddikim_specifies_output.txt"
+}

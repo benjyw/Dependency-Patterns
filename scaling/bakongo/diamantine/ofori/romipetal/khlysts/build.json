@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/eckhart/smiddy",
+    "bakongo/diamantine/ofori/featheredges/rant",
+    "bakongo/diamantine/ofori/quarrelproof/antilacrosse",
+    "bakongo/diamantine/ofori/uncustomed/uppbad",
+    "bakongo/exodontics/hereditably/coolness",
+    "bakongo/gastrelcosis/berseems/subclerk",
+    "bakongo/manipulating/lysolecithin/reimplanted",
+    "bakongo/manipulating/lysolecithin/reimplanted",
+    "bakongo/nicotins/reitman/nicotins",
+    "bakongo/thyroideal/megalonyx/explanator",
+    "bakongo/thyroideal/theologised/lello",
+    "bakongo/upglide/endospermous/implemented",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/phantomship",
+    "bakongo/upglide/endospermous/tarred",
+    "bakongo/upglide/endospermous/ultrafeudal"
+  ],
+  "output_file": "bakongo_diamantine_ofori_romipetal_khlysts_output.txt"
+}

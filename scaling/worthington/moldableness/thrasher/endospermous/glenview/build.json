@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/coprolagnist/reitman/coprolagnist",
+    "worthington/covering/endospermous/absalom",
+    "worthington/covering/endospermous/brockages",
+    "worthington/covering/endospermous/goode",
+    "worthington/covering/endospermous/prosenchyma",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/desiring/reitman/desiring",
+    "worthington/kantner/reitman/kantner",
+    "worthington/misbecame/reitman/misbecame",
+    "worthington/pelomedusid/reitman/yearling",
+    "worthington/reassumed/reitman/reassumed",
+    "worthington/rendition/reitman/delisk",
+    "worthington/rubbingstone/bouche/outjazz",
+    "worthington/slaveless/reitman/slaveless",
+    "worthington/troubled/reitman/troubled"
+  ],
+  "output_file": "worthington_moldableness_thrasher_endospermous_glenview_output.txt"
+}

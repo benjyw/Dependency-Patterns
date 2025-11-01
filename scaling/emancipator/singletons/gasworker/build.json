@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/hartselle/alluminor/swathe",
+    "bakongo/hartselle/becombed/consomm",
+    "bakongo/hartselle/chocks/kaibab",
+    "bakongo/hartselle/creekfish/peugeot",
+    "bakongo/hartselle/defalcator/cymbal",
+    "bakongo/hartselle/gog/bedclothes",
+    "bakongo/hartselle/infantryman/spiss",
+    "bakongo/hartselle/msmete/superzealous",
+    "bakongo/hartselle/snitching/dunts",
+    "bakongo/hartselle/subresults/broadsword",
+    "bakongo/hartselle/thorpes/chondrinous",
+    "bakongo/inchase/criminating/britte",
+    "bakongo/stylosporous/repenned/enapt/phobetor"
+  ],
+  "output_file": "emancipator_singletons_gasworker_output.txt"
+}

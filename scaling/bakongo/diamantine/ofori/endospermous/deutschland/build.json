@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/apagoge/reitman/apagoge",
+    "bakongo/burfish/reitman/burfish",
+    "bakongo/isotactic/reitman/isotactic",
+    "bakongo/monofilm/reitman/ballot",
+    "bakongo/tagboard/reitman/tagboard",
+    "bakongo/thrives/endospermous/horsemen",
+    "bakongo/upglide/endospermous/heathberry",
+    "bakongo/upglide/endospermous/implemented",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/noti",
+    "bakongo/upglide/endospermous/prearrange",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/upglide/endospermous/unflesh",
+    "bakongo/upglide/endospermous/ununiformed"
+  ],
+  "output_file": "bakongo_diamantine_ofori_endospermous_deutschland_output.txt"
+}

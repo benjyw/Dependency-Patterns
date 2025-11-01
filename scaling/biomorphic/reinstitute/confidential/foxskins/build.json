@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/avocatory/hereditably/rousingly",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/malacobdella/lysolecithin/popeism",
+    "biomorphic/romonda/reitman/romonda",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/unsacerdotal",
+    "biomorphic/sewerlike/reitman/sewerlike"
+  ],
+  "output_file": "biomorphic_reinstitute_confidential_foxskins_output.txt"
+}

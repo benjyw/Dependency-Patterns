@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/gissing/resue",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/beslaved/dissembly/warrenne",
+    "worthington/beslaved/melaniline/paned",
+    "worthington/cinenegative/lysolecithin/nonexpanding",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/sleided/cristal/unabetted/unflat",
+    "worthington/sleided/meningic/synanthetic/lusaka",
+    "worthington/uneducated/bemire/grinter",
+    "worthington/uneducated/oxyosphresia/rosttra",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "sizz_mahone_thondracians_output.txt"
+}

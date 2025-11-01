@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/aggressors/bemire/cyanastrum",
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/cajole/lysolecithin/cvr",
+    "worthington/chasteningly/unqueened/finishing",
+    "worthington/covering/endospermous/brockages",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/monoid/reitman/monoid",
+    "worthington/reteaching/bouche/strabismally",
+    "worthington/rowe/titulation/rowe",
+    "worthington/smoh/endospermous/multiplicate",
+    "worthington/spelunkers/unqueened/semilethal"
+  ],
+  "output_file": "worthington_wheelchairs_bristliest_chicories_output.txt"
+}

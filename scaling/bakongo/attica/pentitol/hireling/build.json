@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/strucion/dissembly/brechtian",
+    "bakongo/strucion/quantitively/arteriorenal",
+    "bakongo/strucion/suspiciously/analgene",
+    "bakongo/strucion/torbert/roberd",
+    "bakongo/superable/unionic/untie",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/yggdrasil/endospermous/elegised"
+  ],
+  "output_file": "bakongo_attica_pentitol_hireling_output.txt"
+}

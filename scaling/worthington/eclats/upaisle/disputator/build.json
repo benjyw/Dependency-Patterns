@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/eclats/brainteaser/hete",
+    "worthington/eclats/criminating/oligophrenic",
+    "worthington/eclats/desaturation/patronizing",
+    "worthington/eclats/flavian/outecho",
+    "worthington/eclats/flub/cotenancy",
+    "worthington/eclats/fumulus/drawglove",
+    "worthington/eclats/gnathostomi/rigs",
+    "worthington/eclats/hereditably/philogarlic",
+    "worthington/eclats/hierro/adjuvate",
+    "worthington/eclats/kufiyeh/pragmatistic",
+    "worthington/eclats/lealness/glossotype",
+    "worthington/eclats/redondilla/suppliancy",
+    "worthington/eclats/spruiker/plateaus",
+    "worthington/eclats/strychnos/somnambulate",
+    "worthington/eclats/subcuneus/tocobaga",
+    "worthington/eclats/wots/quartzite",
+    "worthington/ihp/endospermous/elf",
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_eclats_upaisle_disputator_output.txt"
+}

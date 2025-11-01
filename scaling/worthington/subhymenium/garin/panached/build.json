@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/subhymenium/criminating/odorless",
+    "worthington/subhymenium/desaturation/deludingly",
+    "worthington/subhymenium/entrechat/cornuto",
+    "worthington/subhymenium/gaia/sistroid",
+    "worthington/subhymenium/postabdomen/spallation",
+    "worthington/subhymenium/springvale/etatism",
+    "worthington/subhymenium/valorie/subintimal",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "worthington_subhymenium_garin_panached_output.txt"
+}

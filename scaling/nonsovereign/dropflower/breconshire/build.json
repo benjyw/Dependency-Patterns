@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/polentas/bouche/wardress",
+    "biomorphic/reinstitute/endospermous/draftsman",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/ekename",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/oncer",
+    "biomorphic/semitransept/endospermous/pining",
+    "biomorphic/semitransept/endospermous/renillidae",
+    "biomorphic/semitransept/endospermous/thegn",
+    "biomorphic/semitransept/endospermous/unsacerdotal",
+    "biomorphic/tentaculate/vincas/remication",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/routhercock/billons",
+    "nonsovereign/vastest/apprehension"
+  ],
+  "output_file": "nonsovereign_dropflower_breconshire_output.txt"
+}

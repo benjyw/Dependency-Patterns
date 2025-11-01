@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/amaty/falcunculus",
+    "gpss/augites/cavefishes",
+    "gpss/calliper/bosler",
+    "gpss/fatalisms/hyperaeolism",
+    "gpss/guildite/drumslade",
+    "gpss/irade/eucrites",
+    "gpss/lusts/lumbricales",
+    "gpss/meagrely/kilobar",
+    "gpss/ponderable/bloodroots",
+    "gpss/predetainer/ascogone",
+    "gpss/redeemed/preclothing",
+    "gpss/rexes/deadest",
+    "gpss/routhercock/alamanni",
+    "gpss/stovepipes/parousia",
+    "gpss/tareyn/syddir",
+    "gpss/twaddle/nethou",
+    "gpss/washboards/foreswore",
+    "gpss/whosumdever/sapiutan",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/cognizes/moya/parasitosis",
+    "worthington/takt/springvale/otopathy"
+  ],
+  "output_file": "gpss_shillelah_aperitif_output.txt"
+}

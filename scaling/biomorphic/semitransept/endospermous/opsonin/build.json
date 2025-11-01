@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/chromometer/lysolecithin/savelha",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/filaricidal/unqueened/lovel",
+    "biomorphic/keratosropy/unqueened/antennariid",
+    "biomorphic/lateraling/bemire/cotranspire",
+    "biomorphic/maduro/reliers/marseilles",
+    "biomorphic/maduro/unqueened/nephology",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/rebaptizer/lysolecithin/ancestorial",
+    "biomorphic/refiled/unqueened/nerves",
+    "biomorphic/rewey/reliers/vaccines",
+    "biomorphic/rewey/unqueened/retinacula",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/semitransept/endospermous/pariahism",
+    "biomorphic/semitransept/endospermous/plumdamis",
+    "biomorphic/semitransept/endospermous/provo",
+    "biomorphic/tiddleywink/endospermous/symposia",
+    "biomorphic/uncamp/bemire/tasimetric"
+  ],
+  "output_file": "biomorphic_semitransept_endospermous_opsonin_output.txt"
+}

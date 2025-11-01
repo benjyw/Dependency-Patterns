@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/covering/endospermous/adhort",
+    "worthington/covering/endospermous/goode",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/kenai/reitman/kenai",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/monoid/reitman/monoid",
+    "worthington/uneducated/reitman/ruing",
+    "worthington/wharfmen/criminating/dribbet",
+    "worthington/wharfmen/curiosa/hammochrysos"
+  ],
+  "output_file": "worthington_moldableness_thrasher_differen_payers_output.txt"
+}

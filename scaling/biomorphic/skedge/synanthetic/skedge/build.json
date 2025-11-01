@@ -1,0 +1,41 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adstipulate/lysolecithin/adstipulate",
+    "biomorphic/cottontails/reitman/cottontails",
+    "biomorphic/deleterious/vincas/variance",
+    "biomorphic/esau/endospermous/scrupular",
+    "biomorphic/keratosropy/unqueened/antennariid",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/refiled/unqueened/nerves",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/demiseason",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/skedge/hydros/stridhan",
+    "biomorphic/spondylic/gnathostomi/snipish",
+    "biomorphic/spondylic/kufiyeh/undergrowths",
+    "biomorphic/spondylic/lealness/inurements",
+    "biomorphic/untellable/dustpans/anthoxanthum",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig"
+  ],
+  "output_file": "biomorphic_skedge_synanthetic_skedge_output.txt"
+}

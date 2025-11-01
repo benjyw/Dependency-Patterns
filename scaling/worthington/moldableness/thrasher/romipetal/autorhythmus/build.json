@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/ambitioned/reitman/ambitioned",
+    "worthington/brothers/criminating/morsal",
+    "worthington/coprolagnist/reitman/coprolagnist",
+    "worthington/covering/endospermous/absalom",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/covering/endospermous/ventromedial",
+    "worthington/dysanalyte/reitman/dysanalyte",
+    "worthington/felspathic/triturature/simonizes",
+    "worthington/kantner/reitman/kantner",
+    "worthington/moldableness/thrasher/romipetal/ammonoidean",
+    "worthington/motherhouse/reitman/motherhouse",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "worthington_moldableness_thrasher_romipetal_autorhythmus_output.txt"
+}

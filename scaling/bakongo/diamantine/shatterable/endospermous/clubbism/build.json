@@ -1,0 +1,30 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/apagoge/reitman/apagoge",
+    "bakongo/excretal/reitman/excretal",
+    "bakongo/gastrelcosis/berseems/subclerk",
+    "bakongo/manipulating/lysolecithin/reimplanted",
+    "bakongo/manipulating/lysolecithin/reimplanted",
+    "bakongo/tagboard/reitman/tagboard",
+    "bakongo/upglide/endospermous/espier",
+    "bakongo/upglide/endospermous/implemented",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/phantomship",
+    "bakongo/upglide/endospermous/ultrafeudal"
+  ],
+  "output_file": "bakongo_diamantine_shatterable_endospermous_clubbism_output.txt"
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/barbirolli/criminating/woll",
+    "bakongo/barbirolli/ermanno/greennesses",
+    "bakongo/diamantine/ofori/romipetal/acidific",
+    "bakongo/ephedra/shover/nulliporous",
+    "bakongo/forslake/reitman/forslake",
+    "bakongo/upglide/endospermous/fixable"
+  ],
+  "output_file": "bakongo_diamantine_ofori_lukaszewicz_atalie_output.txt"
+}

@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/covering/endospermous/adamical",
+    "worthington/covering/endospermous/ganapati",
+    "worthington/covering/endospermous/pensileness",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/covering/endospermous/spr",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/covering/endospermous/twaddy",
+    "worthington/covering/endospermous/uteropexia",
+    "worthington/desiring/reitman/desiring",
+    "worthington/kenai/reitman/kenai",
+    "worthington/monoid/reitman/monoid",
+    "worthington/slaveless/reitman/slaveless",
+    "worthington/uncut/endospermous/naivenesses",
+    "worthington/uneducated/reitman/ruing"
+  ],
+  "output_file": "worthington_moldableness_transverter_endospermous_snooziness_output.txt"
+}

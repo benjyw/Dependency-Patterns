@@ -1,0 +1,36 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/coarsest/reitman/arraying",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/reinstitute/differen/wrannock",
+    "biomorphic/reinstitute/endospermous/draftsman",
+    "biomorphic/reinstitute/endospermous/lazzaroni",
+    "biomorphic/reinstitute/endospermous/reemphasized",
+    "biomorphic/reinstitute/endospermous/sirdar",
+    "biomorphic/reinstitute/forsythe/besmutting",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/bleuler",
+    "biomorphic/semitransept/endospermous/herreid",
+    "biomorphic/semitransept/endospermous/mesochilium",
+    "biomorphic/semitransept/endospermous/spetch",
+    "biomorphic/semitransept/endospermous/thegn",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/glimes"
+  ],
+  "output_file": "nonsovereign_uncerated_noncock_output.txt"
+}

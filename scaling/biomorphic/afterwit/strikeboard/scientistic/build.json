@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adventured/dissembly/lateliness",
+    "biomorphic/adventured/equines/scolytus",
+    "biomorphic/adventured/retells/pemolines",
+    "biomorphic/adventured/rufulous/aminic",
+    "biomorphic/afterwit/bemire/cleated",
+    "biomorphic/afterwit/decimated/goombahs",
+    "biomorphic/afterwit/mechanism/diner",
+    "biomorphic/afterwit/rsa/kirsches",
+    "biomorphic/afterwit/vincas/bradylexia",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/tropophyte/shawfowl/slums",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig"
+  ],
+  "output_file": "biomorphic_afterwit_strikeboard_scientistic_output.txt"
+}

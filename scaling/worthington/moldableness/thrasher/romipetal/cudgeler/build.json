@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/beslaved/benedicta/neutralize",
+    "worthington/beslaved/epikia/plastochrone",
+    "worthington/beslaved/torbert/hadendowa",
+    "worthington/covering/endospermous/rabulistic",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/fluoride/reitman/fluoride",
+    "worthington/heldentenors/lysolecithin/bri",
+    "worthington/kenai/reitman/kenai",
+    "worthington/moldableness/thrasher/blooie/haysi",
+    "worthington/moldableness/thrasher/confidential/holmes",
+    "worthington/moldableness/thrasher/edveh/cromfordite",
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/moldableness/thrasher/migonitis/exercisable",
+    "worthington/moldableness/thrasher/reprobating/gemmulation",
+    "worthington/moldableness/thrasher/seroka/standpat",
+    "worthington/sattley/vincas/overgraze",
+    "worthington/uneducated/foreshadowed/kakapos",
+    "worthington/uneducated/noncasual/midnoon",
+    "worthington/uneducated/prerheumatic/hissing",
+    "worthington/uneducated/slag/intraorbital",
+    "worthington/viomycins/reitman/stippled"
+  ],
+  "output_file": "worthington_moldableness_thrasher_romipetal_cudgeler_output.txt"
+}

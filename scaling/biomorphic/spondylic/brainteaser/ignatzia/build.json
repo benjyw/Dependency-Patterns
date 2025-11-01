@@ -1,0 +1,33 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/ananna/reitman/ananna",
+    "biomorphic/reinstitute/endospermous/andrarchy",
+    "biomorphic/spondylic/chimacum/yirmilik",
+    "biomorphic/spondylic/criminating/overstanding",
+    "biomorphic/spondylic/desaturation/centriscus",
+    "biomorphic/spondylic/flavian/conspire",
+    "biomorphic/spondylic/fumulus/wering",
+    "biomorphic/spondylic/hereditably/unransomable",
+    "biomorphic/spondylic/posted/childlier",
+    "biomorphic/spondylic/spruiker/wraith",
+    "biomorphic/spondylic/strychnos/alumnus",
+    "biomorphic/spondylic/subcuneus/paratonic",
+    "biomorphic/spondylic/substantize/gryllotalpa",
+    "biomorphic/spondylic/wots/tullibees"
+  ],
+  "output_file": "biomorphic_spondylic_brainteaser_ignatzia_output.txt"
+}

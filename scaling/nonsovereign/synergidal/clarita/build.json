@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/astrogony/reitman/astrogony",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/reinstitute/endospermous/aetiologue",
+    "biomorphic/semitransept/endospermous/algonkins",
+    "biomorphic/semitransept/endospermous/gazella",
+    "biomorphic/semitransept/endospermous/sublimed",
+    "biomorphic/semitransept/endospermous/thegn",
+    "biomorphic/shogun/hereditably/glowed",
+    "biomorphic/shogun/springvale/louseberries",
+    "biomorphic/untellable/surprise/pursuant",
+    "nonsovereign/endospermous/snicking",
+    "nonsovereign/endospermous/squareman",
+    "nonsovereign/routhercock/billons"
+  ],
+  "output_file": "nonsovereign_synergidal_clarita_output.txt"
+}

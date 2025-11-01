@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/getmesost/moit/fritted",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/khoisan",
+    "bakongo/upglide/endospermous/muncerian",
+    "bakongo/upglide/endospermous/ochreish",
+    "bakongo/upglide/endospermous/tarred",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_datha_nino_output.txt"
+}

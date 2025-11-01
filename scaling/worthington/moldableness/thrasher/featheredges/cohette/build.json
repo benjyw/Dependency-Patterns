@@ -1,0 +1,36 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/begga/berseems/thermes",
+    "worthington/covering/endospermous/adamical",
+    "worthington/covering/endospermous/adelphia",
+    "worthington/covering/endospermous/cacti",
+    "worthington/covering/endospermous/goode",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sparkingly",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/covering/endospermous/uteropexia",
+    "worthington/frigorifical/bouche/affusion",
+    "worthington/frigorifical/bouche/affusion",
+    "worthington/frigorifical/lysolecithin/deeper",
+    "worthington/frigorifical/lysolecithin/deeper",
+    "worthington/ihp/endospermous/elf",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/quarrelproof/ajo"
+  ],
+  "output_file": "worthington_moldableness_thrasher_featheredges_cohette_output.txt"
+}

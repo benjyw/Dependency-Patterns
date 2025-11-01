@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diamantine/ofori/aldington/remated",
+    "bakongo/diamantine/ofori/antlophobia/dilling",
+    "bakongo/diamantine/ofori/assiduity/faculous",
+    "bakongo/diamantine/ofori/dispread/magots",
+    "bakongo/diamantine/ofori/doggoner/aching",
+    "bakongo/diamantine/ofori/glaciarium/baboosh",
+    "bakongo/diamantine/ofori/horrible/trendier",
+    "bakongo/diamantine/ofori/kiddoes/rash",
+    "bakongo/diamantine/ofori/linseed/pyrogallate",
+    "bakongo/diamantine/ofori/nasute/expander",
+    "bakongo/diamantine/ofori/nasuteness/lilongwe",
+    "bakongo/diamantine/ofori/semioval/isohemolysis",
+    "bakongo/diamantine/ofori/symptomize/brulyies",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/monofilm/oxyosphresia/ashpan",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/bounces",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/libau",
+    "bakongo/upglide/endospermous/muncerian",
+    "bakongo/upglide/endospermous/physoclisti",
+    "bakongo/upglide/endospermous/tarred",
+    "bakongo/waywode/unqueened/verbifies",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_redargutive_adoption_output.txt"
+}

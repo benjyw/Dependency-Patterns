@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/cravat/eisegetic",
+    "gpss/endospermous/brosot",
+    "gpss/neighborly/lobeliaceous",
+    "gpss/outbids/tcp",
+    "gpss/scalpellic/coticular",
+    "gpss/unbridles/finds",
+    "gpss/windowshade/maclurin",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/covering/endospermous/maid",
+    "worthington/covering/endospermous/slbm",
+    "worthington/hordville/lockeford/multiplexed",
+    "worthington/hordville/stp/vills",
+    "worthington/moldableness/thrasher/endospermous/cruciality",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/piazzi/synanthetic/piazzi",
+    "worthington/sleided/surprizal/unextreme/ferrets"
+  ],
+  "output_file": "gpss_ora_viziership_output.txt"
+}

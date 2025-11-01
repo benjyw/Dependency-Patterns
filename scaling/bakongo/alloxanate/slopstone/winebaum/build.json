@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/acrogenic/lysolecithin/acrogenic",
+    "bakongo/bastioned/unqueened/hormist",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/manipulating/lysolecithin/reimplanted",
+    "bakongo/manipulating/lysolecithin/reimplanted",
+    "bakongo/monofilm/oxyosphresia/ashpan",
+    "bakongo/preconsuming/reliers/snecket",
+    "bakongo/preconsuming/unqueened/mesogastral",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/ribaldly/unqueened/kerning",
+    "bakongo/snatchers/reliers/antisexist",
+    "bakongo/snatchers/unqueened/redeemedness",
+    "bakongo/spiritlike/bemire/deceases",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/bounces",
+    "bakongo/upglide/endospermous/libau",
+    "bakongo/upglide/endospermous/netherstone",
+    "bakongo/upglide/endospermous/novenae",
+    "bakongo/upglide/endospermous/ochreish",
+    "bakongo/upglide/endospermous/physoclisti",
+    "bakongo/upglide/endospermous/relaxers",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/upglide/endospermous/zoehemera"
+  ],
+  "output_file": "bakongo_alloxanate_slopstone_winebaum_output.txt"
+}

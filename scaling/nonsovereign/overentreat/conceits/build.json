@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/cottontails/reitman/cottontails",
+    "biomorphic/disclosive/synanthetic/disclosive",
+    "biomorphic/esau/endospermous/scrupular",
+    "biomorphic/fetwa/bemire/candiot",
+    "biomorphic/fetwa/reitman/preopinion",
+    "biomorphic/haplobiont/lysolecithin/haplobiont",
+    "biomorphic/nimblewit/endospermous/hortorium",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/nitriding",
+    "biomorphic/semitransept/endospermous/spaits",
+    "biomorphic/semitransept/endospermous/staggeringly",
+    "biomorphic/semitransept/endospermous/yarborough",
+    "biomorphic/sewerlike/reitman/sewerlike",
+    "biomorphic/spondylic/chimacum/yirmilik",
+    "biomorphic/spondylic/desaturation/centriscus",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/endospermous/glimes"
+  ],
+  "output_file": "nonsovereign_overentreat_conceits_output.txt"
+}

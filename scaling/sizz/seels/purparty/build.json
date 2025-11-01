@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/grangerize/logogriphic",
+    "sizz/haysville/overclogged",
+    "sizz/pagne/polyamide",
+    "sizz/portioners/safranophil",
+    "sizz/scappler/norvun",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/beira/vincas/stringently",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/sleided/individuated/goaded/cressie",
+    "worthington/sleided/individuated/synanthetic/umbriferous",
+    "worthington/toadwise/tragus/boatsetter",
+    "worthington/trouncing/lysolecithin/trouncing"
+  ],
+  "output_file": "sizz_seels_purparty_output.txt"
+}

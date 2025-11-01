@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/bastioned/unqueened/hormist",
+    "bakongo/forestalled/criminating/underrates",
+    "bakongo/monofilm/oxyosphresia/ashpan",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/bounces"
+  ],
+  "output_file": "bakongo_pobox_bemire_empiricism_output.txt"
+}

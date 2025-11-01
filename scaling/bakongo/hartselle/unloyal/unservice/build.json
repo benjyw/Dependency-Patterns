@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/gutow/lysolecithin/thegndom",
+    "bakongo/hartselle/vincas/unawarely",
+    "bakongo/inchase/bemire/hippocratea",
+    "bakongo/inchase/criminating/britte",
+    "bakongo/muscovade/lysolecithin/kidnaper",
+    "bakongo/oiw/burgers/abyssinian",
+    "bakongo/prenominical/lysolecithin/bierbalk",
+    "bakongo/sapphera/lysolecithin/smiler",
+    "bakongo/sensuosity/lysolecithin/terminal",
+    "bakongo/siccan/lysolecithin/rummier"
+  ],
+  "output_file": "bakongo_hartselle_unloyal_unservice_output.txt"
+}

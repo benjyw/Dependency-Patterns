@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/esau/endospermous/scrupular",
+    "biomorphic/inhabitancy/gowrie/covarecas",
+    "biomorphic/inhabitancy/reitman/crocanthemum",
+    "biomorphic/inhabitancy/undivested/undepleted",
+    "biomorphic/inhabitancy/whalen/gbh",
+    "biomorphic/metakinesis/vincas/quink",
+    "biomorphic/outtrumped/estevan/currentness/knavishness",
+    "biomorphic/outtrumped/retries/pygidia/cabestro",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/puerpery/endospermous/zoning",
+    "biomorphic/sexlocular/maurreen/goldilocks",
+    "biomorphic/underbreath/reitman/underbreath",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "nonsovereign/endospermous/chakravartin",
+    "nonsovereign/endospermous/gayatri"
+  ],
+  "output_file": "nonsovereign_endospermous_enolate_output.txt"
+}

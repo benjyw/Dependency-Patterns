@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/subhymenium/chimacum/estamin",
+    "worthington/subhymenium/criminating/odorless",
+    "worthington/subhymenium/decemvii/clankless",
+    "worthington/subhymenium/desaturation/deludingly",
+    "worthington/subhymenium/flavian/imnaha",
+    "worthington/subhymenium/flub/bateful",
+    "worthington/subhymenium/hereditably/interruptive",
+    "worthington/subhymenium/redondilla/doodlers",
+    "worthington/subhymenium/spruiker/gorakhpur",
+    "worthington/subhymenium/strychnos/claretta",
+    "worthington/subhymenium/subcuneus/impetrating",
+    "worthington/subhymenium/substantize/firearmed",
+    "worthington/subhymenium/trypa/preterhuman"
+  ],
+  "output_file": "worthington_subhymenium_fumulus_nirles_output.txt"
+}

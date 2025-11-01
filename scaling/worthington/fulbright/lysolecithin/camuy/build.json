@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/alevins/bemire/apoop",
+    "worthington/alevins/criminating/bucconinae",
+    "worthington/beslaved/benedicta/neutralize",
+    "worthington/beslaved/dissembly/warrenne",
+    "worthington/beslaved/epikia/plastochrone",
+    "worthington/beslaved/torbert/hadendowa",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/doornails/bemire/overletting",
+    "worthington/dygogram/bemire/choteau",
+    "worthington/filiciform/lysolecithin/schoolable",
+    "worthington/fulbright/bemire/unreparted",
+    "worthington/ihp/endospermous/elf",
+    "worthington/knifing/lysolecithin/shnooks",
+    "worthington/psycholepsy/pentitol/peppiness",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/bemire/grinter",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_fulbright_lysolecithin_camuy_output.txt"
+}

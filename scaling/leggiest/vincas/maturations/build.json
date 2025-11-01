@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "leggiest/bemire/apilary",
+    "leggiest/bemire/apilary",
+    "leggiest/bemire/apilary",
+    "leggiest/criminating/agatine",
+    "leggiest/endospermous/abrahamite",
+    "leggiest/endospermous/guily",
+    "leggiest/endospermous/gymkhanas",
+    "leggiest/endospermous/huddleston",
+    "leggiest/endospermous/retinae",
+    "leggiest/gnathostomi/lobularly",
+    "leggiest/kufiyeh/bathsheeb",
+    "leggiest/lealness/bluism",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/oxyosphresia/broadsided",
+    "leggiest/pirtleville/fibrose",
+    "leggiest/punak/cannequin",
+    "leggiest/unqueened/dolous",
+    "leggiest/unqueened/dolous",
+    "leggiest/unqueened/dolous",
+    "leggiest/unqueened/dolous"
+  ],
+  "output_file": "leggiest_vincas_maturations_output.txt"
+}

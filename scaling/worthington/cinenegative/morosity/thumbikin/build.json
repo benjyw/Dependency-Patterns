@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/alevins/criminating/bucconinae",
+    "worthington/backpacked/dustpans/minimized",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/cinenegative/irresolute/pasteups",
+    "worthington/cinenegative/lacertian/uninnately",
+    "worthington/cinenegative/lindanes/turse",
+    "worthington/cinenegative/reitman/unalloyed",
+    "worthington/cinenegative/vincas/adalbert",
+    "worthington/fulbright/reitman/ahem",
+    "worthington/mecodonta/recountless/mecodonta",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/faizabad",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/smoh/endospermous/multiplicate",
+    "worthington/sweetiewife/emparadise/dimaggio",
+    "worthington/vocalistic/reitman/margarete"
+  ],
+  "output_file": "worthington_cinenegative_morosity_thumbikin_output.txt"
+}

@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/aggressors/bemire/cyanastrum",
+    "worthington/amperes/lysolecithin/emusifies",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/compatibly/lysolecithin/compatibly",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/eclats/gnathostomi/rigs",
+    "worthington/eclats/kufiyeh/pragmatistic",
+    "worthington/eclats/lealness/glossotype",
+    "worthington/gnatcatcher/gnathostomi/housewive",
+    "worthington/gnatcatcher/kufiyeh/limberness",
+    "worthington/gnatcatcher/lealness/unable",
+    "worthington/ihp/endospermous/elf",
+    "worthington/packmaker/gnathostomi/motorsailer",
+    "worthington/packmaker/kufiyeh/diol",
+    "worthington/packmaker/lealness/digitron",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_sclav_delong_discarnation_output.txt"
+}

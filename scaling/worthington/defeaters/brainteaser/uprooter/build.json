@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/defeaters/chimacum/pennyleaf",
+    "worthington/defeaters/criminating/herniotome",
+    "worthington/defeaters/decemvii/seibert",
+    "worthington/defeaters/desaturation/derf",
+    "worthington/defeaters/flavian/hespel",
+    "worthington/defeaters/flub/ekwok",
+    "worthington/defeaters/fumulus/tirma",
+    "worthington/defeaters/hereditably/conformed",
+    "worthington/defeaters/posted/confesses",
+    "worthington/defeaters/redondilla/actutate",
+    "worthington/defeaters/spruiker/obaza",
+    "worthington/defeaters/strychnos/commoditable",
+    "worthington/defeaters/subcuneus/sabanut",
+    "worthington/defeaters/substantize/inerringly",
+    "worthington/defeaters/trypa/datapoint",
+    "worthington/defeaters/wots/lifeday",
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/unfishable/reitman/unfishable"
+  ],
+  "output_file": "worthington_defeaters_brainteaser_uprooter_output.txt"
+}

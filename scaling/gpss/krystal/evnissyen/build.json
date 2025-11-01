@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/endospermous/obtruder",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/marshflower/autocamping/cloverley",
+    "worthington/marshflower/cephalopodic/friant",
+    "worthington/marshflower/outflash/gelatins",
+    "worthington/marshflower/pikestaff/pones",
+    "worthington/pastile/criminating/soredioid",
+    "worthington/pastile/haircuts/thomsen",
+    "worthington/sleided/anglicanisms/currie/talmudic",
+    "worthington/sleided/anglicanisms/kharif/engirdling",
+    "worthington/sleided/anglicanisms/rightless/chapelries",
+    "worthington/sleided/anglicanisms/unreformable/dreher"
+  ],
+  "output_file": "gpss_krystal_evnissyen_output.txt"
+}

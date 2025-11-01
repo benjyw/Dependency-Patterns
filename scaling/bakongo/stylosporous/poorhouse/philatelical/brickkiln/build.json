@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/enyalius/cockatoos/ichthyoid",
+    "bakongo/enyalius/redlining/descendible",
+    "bakongo/enyalius/stereognosis/campbelltown",
+    "bakongo/enyalius/whalen/hepatomegaly",
+    "bakongo/stylosporous/poorhouse/pygidia/hopperman",
+    "bakongo/stylosporous/poorhouse/salomonic/unseverable",
+    "bakongo/stylosporous/poorhouse/spongioplasm/oliviero"
+  ],
+  "output_file": "bakongo_stylosporous_poorhouse_philatelical_brickkiln_output.txt"
+}

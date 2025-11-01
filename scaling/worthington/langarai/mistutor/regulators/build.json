@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/avidities/comely/boabdil",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/drupe/comely/unfarced",
+    "worthington/ihp/endospermous/automation",
+    "worthington/inevasible/acquisible/gaskets",
+    "worthington/inevasible/chinkiang/nizamat",
+    "worthington/inevasible/extricated/zaniest",
+    "worthington/inevasible/lentiform/litigant",
+    "worthington/inevasible/longwall/pollution",
+    "worthington/inevasible/oppositely/sprawler",
+    "worthington/inevasible/overstalely/snuffling",
+    "worthington/inevasible/perisinuous/ohmmeter",
+    "worthington/inevasible/polyglottal/sebate",
+    "worthington/inevasible/quests/genius",
+    "worthington/inevasible/spattered/huskey",
+    "worthington/inevasible/sthenic/glazers",
+    "worthington/inevasible/terebratula/commissioner",
+    "worthington/inevasible/unifolium/dampest",
+    "worthington/inevasible/vairee/overdrench",
+    "worthington/juristical/retelegraph/lilesville",
+    "worthington/mashed/comely/refl",
+    "worthington/pastile/criminating/soredioid",
+    "worthington/phyllade/comely/dormin",
+    "worthington/therewhilst/comely/inaudibility"
+  ],
+  "output_file": "worthington_langarai_mistutor_regulators_output.txt"
+}

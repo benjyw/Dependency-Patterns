@@ -1,0 +1,38 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/debtors/regioned/aips",
+    "worthington/huttonian/carnaged/unpanelled",
+    "worthington/jujutsu/motorbuses/arimaspians",
+    "worthington/jujutsu/motorbuses/arimaspians",
+    "worthington/jujutsu/socionomics/libellers",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/oversmoothly/dougl/nickeline",
+    "worthington/oversmoothly/showboater/apyretic",
+    "worthington/pichi/synanthetic/pichi",
+    "worthington/rotherham/dispermous/preceptively",
+    "worthington/rotherham/persius/palmgren",
+    "worthington/smoh/endospermous/zelanian",
+    "worthington/teazelling/motorbuses/teazelling"
+  ],
+  "output_file": "worthington_hordville_semispan_cupfuls_output.txt"
+}

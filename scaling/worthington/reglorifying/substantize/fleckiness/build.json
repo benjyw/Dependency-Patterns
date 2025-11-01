@@ -1,0 +1,40 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/ambitioned/reitman/ambitioned",
+    "worthington/catalogers/chimacum/waldglas",
+    "worthington/catalogers/desaturation/pectinatella",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/defeaters/chimacum/pennyleaf",
+    "worthington/defeaters/desaturation/derf",
+    "worthington/eclats/chimacum/falconelle",
+    "worthington/eclats/desaturation/patronizing",
+    "worthington/gnatcatcher/chimacum/steadite",
+    "worthington/gnatcatcher/desaturation/uricemia",
+    "worthington/lituoline/chimacum/kaczer",
+    "worthington/lituoline/desaturation/mythopoetry",
+    "worthington/medicines/chimacum/knab",
+    "worthington/medicines/desaturation/gdb",
+    "worthington/packmaker/chimacum/caracals",
+    "worthington/packmaker/desaturation/misclaiming",
+    "worthington/sepium/criminating/dredges",
+    "worthington/subhymenium/chimacum/estamin",
+    "worthington/subhymenium/desaturation/deludingly",
+    "worthington/tassal/chimacum/eirenic",
+    "worthington/tassal/desaturation/unwarnedness"
+  ],
+  "output_file": "worthington_reglorifying_substantize_fleckiness_output.txt"
+}

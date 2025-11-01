@@ -1,0 +1,39 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adrastus/dougl/extrusive",
+    "biomorphic/adrastus/showboater/munching",
+    "biomorphic/biannually/carnaged/figwort",
+    "biomorphic/czechs/motorbuses/czechs",
+    "biomorphic/esau/endospermous/styler",
+    "biomorphic/fetwa/oxyosphresia/solanum",
+    "biomorphic/fiddlehead/regioned/crabbedly",
+    "biomorphic/inhabitancy/dispermous/stele",
+    "biomorphic/inhabitancy/persius/abidal",
+    "biomorphic/puerpery/endospermous/bargestone",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/unprayed/synanthetic/unprayed",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/surprise/pursuant",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig",
+    "biomorphic/vibrato/motorbuses/autarkik",
+    "biomorphic/vibrato/motorbuses/autarkik",
+    "biomorphic/vibrato/socionomics/pleased"
+  ],
+  "output_file": "biomorphic_astur_semispan_substrative_output.txt"
+}

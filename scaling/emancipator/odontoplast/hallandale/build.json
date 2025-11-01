@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/brohman/singlestep/ornation",
+    "bakongo/courant/routhercock/topepo",
+    "bakongo/diamantine/ofori/endospermous/amah",
+    "bakongo/diamantine/ofori/endospermous/chremzel",
+    "bakongo/diamantine/ofori/endospermous/deutschland",
+    "bakongo/diamantine/ofori/endospermous/presumer",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/stylosporous/raffaello/synanthetic/nothing",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/ochreish",
+    "bakongo/upglide/endospermous/tarred",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/weighted/chugalugged/packmaking",
+    "bakongo/weighted/routhercock/brioschi",
+    "bakongo/wilsons/vincas/outcrowing",
+    "emancipator/endospermous/scyphiform",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_odontoplast_hallandale_output.txt"
+}

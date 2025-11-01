@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/approvably/carilyn/parkway",
+    "worthington/approvably/hga/elytrigerous",
+    "worthington/approvably/hyphae/kodakist",
+    "worthington/approvably/outslang/dibromid",
+    "worthington/approvably/showily/judson",
+    "worthington/approvably/tobi/evictors"
+  ],
+  "output_file": "worthington_approvably_chinkiang_recond_output.txt"
+}

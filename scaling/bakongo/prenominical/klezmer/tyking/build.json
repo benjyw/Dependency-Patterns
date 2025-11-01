@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/attica/eveleen/spodiosite",
+    "bakongo/gutow/lysolecithin/thegndom",
+    "bakongo/hartselle/biaswise/mobilianer",
+    "bakongo/inchase/bemire/hippocratea",
+    "bakongo/inchase/mutuality/salem",
+    "bakongo/inchase/shawfowl/concolour",
+    "bakongo/monofilm/oxyosphresia/ashpan",
+    "bakongo/prenominical/bemire/ondatra",
+    "bakongo/prenominical/decimated/biannual",
+    "bakongo/prenominical/gravigrade/diosmosis",
+    "bakongo/prolia/pirtleville/ingmar",
+    "bakongo/sapphera/lysolecithin/smiler",
+    "bakongo/sensuosity/lysolecithin/terminal",
+    "bakongo/stinkardly/unqueened/isopodous",
+    "bakongo/strucion/dissembly/brechtian",
+    "bakongo/strucion/equines/politest",
+    "bakongo/strucion/irq/sprunk",
+    "bakongo/strucion/protometal/enolized",
+    "bakongo/strucion/retells/kamelaukions",
+    "bakongo/strucion/rufulous/undermanager",
+    "bakongo/theanthropic/endospermous/bianka",
+    "bakongo/upglide/endospermous/bounces",
+    "bakongo/upglide/endospermous/ultrafeudal",
+    "bakongo/waywode/unqueened/verbifies"
+  ],
+  "output_file": "bakongo_prenominical_klezmer_tyking_output.txt"
+}

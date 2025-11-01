@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/cottontails/reitman/cottontails",
+    "biomorphic/gelsemia/reitman/gelsemia",
+    "biomorphic/maduro/reitman/agraphic",
+    "biomorphic/oleron/reitman/medicomoral",
+    "biomorphic/olivet/reitman/olivet",
+    "biomorphic/polentas/bouche/wardress",
+    "biomorphic/rewey/reitman/sturionine",
+    "biomorphic/romonda/reitman/romonda",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/semitransept/endospermous/bleuler",
+    "biomorphic/semitransept/endospermous/distention",
+    "biomorphic/semitransept/endospermous/unsacerdotal",
+    "biomorphic/semitransept/endospermous/wearyingly",
+    "biomorphic/sewerlike/reitman/sewerlike",
+    "biomorphic/underbreath/reitman/underbreath",
+    "biomorphic/vondsira/reitman/vondsira"
+  ],
+  "output_file": "biomorphic_reinstitute_endospermous_dipstick_output.txt"
+}

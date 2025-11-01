@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/diploplacula/chimacum/unhuddled",
+    "bakongo/diploplacula/criminating/rubtsovsk",
+    "bakongo/diploplacula/desaturation/rigdon",
+    "bakongo/diploplacula/flavian/bennu",
+    "bakongo/diploplacula/hereditably/hesperinos",
+    "bakongo/diploplacula/spruiker/hipple",
+    "bakongo/diploplacula/strychnos/dermomycosis",
+    "bakongo/diploplacula/subcuneus/rebrand",
+    "bakongo/diploplacula/substantize/colima"
+  ],
+  "output_file": "bakongo_diploplacula_fumulus_interaxal_output.txt"
+}

@@ -1,0 +1,35 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/adventured/dissembly/lateliness",
+    "biomorphic/adventured/equines/scolytus",
+    "biomorphic/adventured/retells/pemolines",
+    "biomorphic/adventured/rufulous/aminic",
+    "biomorphic/chromometer/pirtleville/scufflers",
+    "biomorphic/ninnyism/bemire/histrionical",
+    "biomorphic/ninnyism/decimated/inclipped",
+    "biomorphic/ninnyism/mechanism/coloquies",
+    "biomorphic/ninnyism/rsa/hematolytic",
+    "biomorphic/ninnyism/vincas/swainsona",
+    "biomorphic/semitransept/endospermous/anomie",
+    "biomorphic/tropophyte/shawfowl/slums",
+    "biomorphic/untellable/pneumas/inimaginable",
+    "biomorphic/untellable/santalum/rejuvenator",
+    "biomorphic/untellable/syndeton/alfur",
+    "biomorphic/untellable/whipmaking/prig"
+  ],
+  "output_file": "biomorphic_ninnyism_strikeboard_spirography_output.txt"
+}

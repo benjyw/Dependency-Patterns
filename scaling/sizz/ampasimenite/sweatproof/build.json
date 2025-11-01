@@ -1,0 +1,32 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/seels/baculiticone",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/callosities/cavalero/repositor",
+    "worthington/callosities/decimated/eclipsises",
+    "worthington/callosities/monomials/lobbing",
+    "worthington/callosities/rattoner/whetstones",
+    "worthington/callosities/vincas/chris",
+    "worthington/gastrostege/synanthetic/underswearer",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/sleided/trimensual/synanthetic/chartaceous"
+  ],
+  "output_file": "sizz_ampasimenite_sweatproof_output.txt"
+}

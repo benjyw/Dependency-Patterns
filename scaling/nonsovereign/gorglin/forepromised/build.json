@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "biomorphic/entheal/lysolecithin/entheal",
+    "biomorphic/moochers/lysolecithin/moochers",
+    "biomorphic/nonaddicted/pvc/unseared",
+    "biomorphic/overdrafts/lysolecithin/overdrafts",
+    "biomorphic/semitransept/endospermous/plumdamis",
+    "biomorphic/untellable/surprise/pursuant"
+  ],
+  "output_file": "nonsovereign_gorglin_forepromised_output.txt"
+}

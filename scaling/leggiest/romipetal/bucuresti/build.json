@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "leggiest/bemire/apilary",
+    "leggiest/berseems/adrianople",
+    "leggiest/endospermous/amagasaki",
+    "leggiest/endospermous/browses",
+    "leggiest/endospermous/infectress",
+    "leggiest/endospermous/jillions",
+    "leggiest/endospermous/manfish",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/lysolecithin/achorion",
+    "leggiest/reitman/airiness",
+    "leggiest/reitman/airiness",
+    "leggiest/reitman/airiness",
+    "leggiest/reitman/airiness",
+    "leggiest/unqueened/dolous",
+    "leggiest/unqueened/dolous",
+    "leggiest/unqueened/dolous",
+    "leggiest/vincas/acetify"
+  ],
+  "output_file": "leggiest_romipetal_bucuresti_output.txt"
+}

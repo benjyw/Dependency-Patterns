@@ -1,0 +1,43 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "sizz/cunctator/kirundi",
+    "sizz/cyclicity/thebit",
+    "sizz/diploidic/starnie",
+    "sizz/disfrocked/rosemari",
+    "sizz/dulcifies/subumbral",
+    "sizz/photochemic/quiesce",
+    "sizz/singletons/raywood",
+    "sizz/stallment/stygiophobia",
+    "sizz/unlichened/jeffersonian",
+    "worthington/backpacked/pneumas/pneumaticity",
+    "worthington/backpacked/santalum/lespedeza",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/backpacked/syndeton/pensionary",
+    "worthington/backpacked/whipmaking/uncoached",
+    "worthington/moldableness/thrasher/endospermous/enormously",
+    "worthington/moldableness/thrasher/endospermous/incase",
+    "worthington/moldableness/thrasher/endospermous/saprophytes",
+    "worthington/moldableness/thrasher/endospermous/tutorials",
+    "worthington/sleided/bodysuits/babbool/ravish",
+    "worthington/sleided/bodysuits/diandrous/harslets",
+    "worthington/sleided/bodysuits/haloing/huddledom",
+    "worthington/sleided/bodysuits/mirac/crossett",
+    "worthington/sleided/bodysuits/superminis/telpherman",
+    "worthington/viomycins/ceriomyces/woodpiles"
+  ],
+  "output_file": "sizz_mahogonies_earfuls_output.txt"
+}

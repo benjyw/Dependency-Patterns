@@ -1,0 +1,42 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/ihp/endospermous/elf",
+    "worthington/moldableness/thrasher/endospermous/cnossus",
+    "worthington/packmaker/brainteaser/bullbird",
+    "worthington/packmaker/criminating/frondosely",
+    "worthington/packmaker/desaturation/misclaiming",
+    "worthington/packmaker/flavian/grofe",
+    "worthington/packmaker/flub/fletton",
+    "worthington/packmaker/fumulus/alkynes",
+    "worthington/packmaker/gnathostomi/motorsailer",
+    "worthington/packmaker/hereditably/sensitometer",
+    "worthington/packmaker/hierro/untunefully",
+    "worthington/packmaker/kufiyeh/diol",
+    "worthington/packmaker/lealness/digitron",
+    "worthington/packmaker/redondilla/yells",
+    "worthington/packmaker/spruiker/tickseeded",
+    "worthington/packmaker/strychnos/logistic",
+    "worthington/packmaker/subcuneus/framable",
+    "worthington/packmaker/wots/codeveloper",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_packmaker_upaisle_texases_output.txt"
+}

@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/did/pneumas/southwood",
+    "bakongo/did/santalum/billiton",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/did/syndeton/kittled",
+    "bakongo/did/whipmaking/colchicin",
+    "bakongo/diffluent/criminating/afray",
+    "bakongo/heptene/endospermous/disjasket",
+    "bakongo/kooks/cgx/raunchy",
+    "bakongo/stylosporous/solvents/solvolyzed/trumperiness",
+    "bakongo/stylosporous/solvents/tchervonetz/manikinism",
+    "bakongo/upglide/endospermous/embargoed",
+    "bakongo/upglide/endospermous/kenoticism",
+    "bakongo/upglide/endospermous/ochreish",
+    "hypostasised/endospermous/bikinis",
+    "hypostasised/endospermous/stereotomic"
+  ],
+  "output_file": "hypostasised_koorajong_recoupment_output.txt"
+}

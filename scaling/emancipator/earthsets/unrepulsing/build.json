@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "bakongo/acronyc/agronomial/heftier",
+    "bakongo/acronyc/curiosa/abbacomes",
+    "bakongo/acronyc/heliconist/nourishingly",
+    "bakongo/burfish/reitman/burfish",
+    "bakongo/casabianca/lysolecithin/casabianca",
+    "bakongo/casabianca/nontheologic/premeds",
+    "bakongo/diamantine/ofori/endospermous/amah",
+    "bakongo/diamantine/ofori/endospermous/amah",
+    "bakongo/did/surprise/whitfinch",
+    "bakongo/upglide/endospermous/crabbily",
+    "bakongo/upglide/endospermous/jnanayoga",
+    "bakongo/upglide/endospermous/mocksville",
+    "bakongo/upglide/endospermous/ochreish",
+    "bakongo/upglide/endospermous/tarred",
+    "bakongo/upglide/endospermous/unflesh",
+    "emancipator/earner/paulding",
+    "emancipator/endospermous/scyphiform",
+    "emancipator/endospermous/tobaccoless"
+  ],
+  "output_file": "emancipator_earthsets_unrepulsing_output.txt"
+}

@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "worthington/aggressors/bemire/cyanastrum",
+    "worthington/amperes/lysolecithin/emusifies",
+    "worthington/barksome/unqueened/styloglossal",
+    "worthington/cajole/lysolecithin/cvr",
+    "worthington/cajole/pirtleville/unmaskers",
+    "worthington/covering/endospermous/adhort",
+    "worthington/covering/endospermous/festatus",
+    "worthington/covering/endospermous/homilist",
+    "worthington/covering/endospermous/sublimers",
+    "worthington/covering/endospermous/tranqs",
+    "worthington/doornails/bemire/overletting",
+    "worthington/ihp/endospermous/elf",
+    "worthington/medicines/gnathostomi/roxi",
+    "worthington/medicines/kufiyeh/pinite",
+    "worthington/medicines/lealness/creutzer",
+    "worthington/monoid/reitman/monoid",
+    "worthington/spelunkers/unqueened/semilethal",
+    "worthington/uneducated/oxyosphresia/rosttra"
+  ],
+  "output_file": "worthington_gorillian_lysolecithin_gorillian_output.txt"
+}

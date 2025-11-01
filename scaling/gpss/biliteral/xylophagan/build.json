@@ -1,0 +1,34 @@
+{
+  "sources": [
+    "test.txt",
+    "random_seed_01.txt",
+    "random_seed_02.txt",
+    "random_seed_03.txt",
+    "random_seed_04.txt",
+    "random_seed_05.txt",
+    "random_seed_06.txt",
+    "random_seed_07.txt",
+    "random_seed_08.txt",
+    "random_seed_09.txt",
+    "random_seed_10.txt",
+    "random_seed_11.txt"
+  ],
+  "dependencies": [
+    "gpss/endospermous/chaves",
+    "gpss/endospermous/obtruder",
+    "gpss/endospermous/trinities",
+    "gpss/kingsnake/cladose",
+    "worthington/backpacked/surprise/torsibility",
+    "worthington/covering/endospermous/cockbilled",
+    "worthington/covering/endospermous/grimme",
+    "worthington/covering/endospermous/hymner",
+    "worthington/covering/endospermous/rabulistic",
+    "worthington/covering/endospermous/slbm",
+    "worthington/covering/endospermous/yaksha",
+    "worthington/mayvins/criminating/priodontes",
+    "worthington/mithridatic/endospermous/antiferment",
+    "worthington/mithridatic/endospermous/filbert",
+    "worthington/moldableness/thrasher/endospermous/enormously"
+  ],
+  "output_file": "gpss_biliteral_xylophagan_output.txt"
+}
