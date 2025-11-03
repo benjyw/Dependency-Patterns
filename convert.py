@@ -3,6 +3,8 @@ import json
 import os
 import sys
 
+# A one-time script to convert the BUILD files in this repo to build.json.
+# See rules.py for why.
 
 _files = {}
 _adhoc_tool = {}
@@ -18,7 +20,8 @@ def adhoc_tool(**kwargs):
 
 
 def run_shell_command(**kwargs):
-    _run_shell_command.update(**kwargs)
+    if kwargs.get("name") != "debug":
+        _run_shell_command.update(**kwargs)
 
 globals={"files": files, "adhoc_tool": adhoc_tool, "run_shell_command": run_shell_command}
 

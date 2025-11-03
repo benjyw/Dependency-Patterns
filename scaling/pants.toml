@@ -9,7 +9,8 @@ backend_packages = [
     "pants.backend.shell",
     "pants.backend.experimental.adhoc",
     "pants.backend.python",
-    #"pants.backend.plugin_development",
+    "pants.backend.plugin_development",
+    "custom_build",
 ]
 
 [source]
